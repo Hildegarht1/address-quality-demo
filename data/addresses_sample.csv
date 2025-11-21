@@ -4,3 +4,196 @@ address,city,postcode,country
 "Unter den Linden 77, 10117 Berlin",Berlin,10117,Germany
 "Invalid address example, Nowhere",Nowhere,00000,Nowhere
 "10 Downing St, London",London,SW1A 2AA,UK
+"742 Evergreen Terrace, Springfield",Springfield,62704,USA
+"221B Baker St, London",London,NW1 6XE,UK
+"350 Fifth Avenue, Manhattan, NY",New York,10118,USA
+"50 King St, Manchester",Manchester,M2 6AA,UK
+"1601 Willow Rd, Menlo Park, CA",Menlo Park,94025,USA
+"5 Queen St, Auckland",Auckland,1010,New Zealand
+"500 Terry A Francois Blvd, San Francisco, CA",San Francisco,94158,USA
+"3 Abbey Rd, London",London,NW8 9AY,UK
+"4 Rue de la Paix, Paris",Paris,75002,France
+"12 Bahnhofstrasse, Zurich",Zurich,8001,Switzerland
+"24 Karl-Marx-Straße, Berlin",Berlin,12043,Germany
+"88 High St, Edinburgh",Edinburgh,EH1 1YZ,UK
+"77 O'Connell St, Dublin",Dublin,D01, Ireland
+"200 King St W, Toronto",Toronto,M5H 3T4,Canada
+"250 Queen St, Brisbane",Brisbane,4000,Australia
+"11 Rue du Faubourg Saint-Honoré, Paris",Paris,75008,France
+"8 Avenida Paulista, São Paulo",São Paulo,01311-000,Brazil
+"14 Calle Gran Vía, Madrid",Madrid,28013,Spain
+"9 Via dei Condotti, Rome",Rome,00187,Italy
+"60 Rue Sainte-Catherine, Bordeaux",Bordeaux,33000,France
+"101 Prins Hendrikkade, Amsterdam",Amsterdam,1012,Netherlands
+"23 Limmatquai, Zurich",Zurich,8001,Switzerland
+"45 Friedrichstrasse, Berlin",Berlin,10117,Germany
+"3000 5th Ave N, Birmingham",Birmingham,B43 6,UK
+"6 Avenida de la Constitución, Seville",Seville,41001,Spain
+"700 King George V Ave, Accra",Accra,00233,Ghana
+"12 Adeola Odeku St, Lagos",Lagos,100001,Nigeria
+"9 Victoria Island, Lagos",Lagos,100001,Nigeria
+"21 Oxford St, London",London,W1D 2HU,UK
+"33 Rue de Rivoli, Paris",Paris,75004,France
+"400 Collins St, Melbourne",Melbourne,3000,Australia
+"88 Rue du Bac, Paris",Paris,75007,France
+"77 Avenida da Liberdade, Lisbon",Lisbon,1250-096,Portugal
+"12 Rua Augusta, Lisbon",Lisbon,1150-042,Portugal
+"18 Calle de Atocha, Madrid",Madrid,28012,Spain
+"102 Gran Vía, Madrid",Madrid,28013,Spain
+"5 Avenida Reforma, Mexico City",Mexico City,06600,Mexico
+"200 George St, Sydney",Sydney,2000,Australia
+"14 Jalan Bukit Bintang, Kuala Lumpur",Kuala Lumpur,55100,Malaysia
+"3 Chome-1-1 Marunouchi, Chiyoda City, Tokyo",Tokyo,100-0005,Japan
+"1 Harbour Rd, Wan Chai",Hong Kong,999077,Hong Kong
+"16 Nathan Rd, Tsim Sha Tsui",Hong Kong,999077,Hong Kong
+"77 Rundle Mall, Adelaide",Adelaide,5000,Australia
+"9 Princes Hwy, Wollongong",Wollongong,2500,Australia
+"18 Via Monte Napoleone, Milan",Milan,20121,Italy
+"55 Avenida da República, Lisbon",Lisbon,1050-185,Portugal
+"42 Strand, London",London,WC2R 0EJ,UK
+"200 Wacker Dr, Chicago",Chicago,60606,USA
+"7 Bloor St W, Toronto",Toronto,M5S 1M2,Canada
+"66 Queen St, Auckland",Auckland,1010,New Zealand
+"99 Princes St, Edinburgh",Edinburgh,EH2 2EQ,UK
+"123 Grafton St, Dublin",Dublin,D02, Ireland
+"8 Rua Oscar Freire, São Paulo",São Paulo,01426-001,Brazil
+"45 Calle Serrano, Madrid",Madrid,28001,Spain
+"30 King St, Manchester",Manchester,M2 6AG,UK
+"14 Rua da Prata, Lisbon",Lisbon,1100-411,Portugal
+"1 Circular Quay, Sydney",Sydney,2000,Australia
+"2 Market St, San Francisco",San Francisco,94103,USA
+"88 Broadway, New York",New York,10006,USA
+"77 Queen St W, Toronto",Toronto,M5V 2B7,Canada
+"18 Jalan Besar, Singapore",Singapore,208787,Singapore
+"5 Bukit Timah Rd, Singapore",Singapore,259695,Singapore
+"1200 Avenida Brasil, Rio de Janeiro",Rio de Janeiro,20010-000,Brazil
+"44 Calle Florida, Buenos Aires",Buenos Aires,C1005,Argentina
+"58 Avenida Corrientes, Buenos Aires",Buenos Aires,C1043,Argentina
+"2 Rua das Flores, Porto",Porto,4000-203,Portugal
+"7 Rue de la République, Lyon",Lyon,69002,France
+"10 Piazza Navona, Rome",Rome,00186,Italy
+"55 Via Toledo, Naples",Naples,80134,Italy
+"14 Lacey St, Hobart",Hobart,7000,Australia
+"9 Kloof St, Cape Town",Cape Town,8001,South Africa
+"23 Long St, Cape Town",Cape Town,8001,South Africa
+"100 Adetokunbo Ademola St, Abuja",Abuja,900211,Nigeria
+"77 Ring Road, Accra",Accra,00233,Ghana
+"88 Cantonments Rd, Accra",Accra,00233,Ghana
+"5 Osu Oxford St, Accra",Accra,00233,Ghana
+"18 Labone Crescent, Accra",Accra,00233,Ghana
+"22 Liberation Rd, Accra",Accra,00233,Ghana
+"101 Oxford Rd, Manchester",Manchester,M13 9PL,UK
+"9 Fleet St, London",London,EC4Y 1AA,UK
+"16 St Swithin's Ln, London",London,EC4N 8AD,UK
+"320 King St, Melbourne",Melbourne,3000,Australia
+"45 Swanston St, Melbourne",Melbourne,3000,Australia
+"88 Collins St, Melbourne",Melbourne,3000,Australia
+"77 Bourke St, Melbourne",Melbourne,3000,Australia
+"9 Elizabeth St, Melbourne",Melbourne,3000,Australia
+"2500 Pennsylvania Ave NW, Washington",Washington,20500,USA
+"1600 Pennsylvania Ave NW, Washington",Washington,20500,USA
+"11 Independence Ave SE, Washington",Washington,20003,USA
+"400 N Michigan Ave, Chicago",Chicago,60611,USA
+"2200 N Lake Shore Dr, Chicago",Chicago,60614,USA
+"14 Wacker Pl, Chicago",Chicago,60606,USA
+"88 Avenida Atlântica, Rio de Janeiro",Rio de Janeiro,22021-001,Brazil
+"25 Rua Haroldo de Andrade, Rio de Janeiro",Rio de Janeiro,22021-000,Brazil
+"12 Rua do Ouvidor, Rio de Janeiro",Rio de Janeiro,20040-040,Brazil
+"9 Calle Ocho, Miami",Miami,33101,USA
+"55 Ocean Dr, Miami Beach",Miami Beach,33139,USA
+"77 Collins Ave, Miami Beach",Miami Beach,33139,USA
+"200 Brickell Ave, Miami",Miami,33131,USA
+"18 Avenida Insurgentes, Mexico City",Mexico City,06100,Mexico
+"34 Paseo de la Reforma, Mexico City",Mexico City,06600,Mexico
+"8 Calle de Donceles, Mexico City",Mexico City,06000,Mexico
+"12 Avenida da República, São Paulo",São Paulo,01311-000,Brazil
+"14 Rua Haddock Lobo, São Paulo",São Paulo,01414-000,Brazil
+"19 Rua Vergueiro, São Paulo",São Paulo,01504-000,Brazil
+"6 King St, Bristol",Bristol,BS1 4EU,UK
+"44 Park St, Bristol",Bristol,BS1 5HX,UK
+"101 Park Row, Leeds",Leeds,LS1 3,UK
+"18 Briggate, Leeds",Leeds,LS1 6,UK
+"22 Queen Victoria St, London",London,EC4V 4BQ,UK
+"77 Strand Bridge, Dublin",Dublin,D01, Ireland
+"9 O'Connell Street Upper, Dublin",Dublin,D01, Ireland
+"5 Grafton St, Dublin",Dublin,D02, Ireland
+"16 Ranelagh Rd, Dublin",Dublin,D06, Ireland
+"66 Sloane St, London",London,SW1X 9,UK
+"33 Kensington High St, London",London,W8 5,UK
+"9 Piccadilly, London",London,W1J 9,UK
+"1 The Mall, London",London,SW1A 1AA,UK
+"22 Princes Dock St, Liverpool",Liverpool,L1 8,UK
+"9 Castle St, Liverpool",Liverpool,L2 0,UK
+"120 O'Connell St, Limerick",Limerick,V94, Ireland
+"5 Sráid Uí Chonghaile, Sligo",Sligo,F91, Ireland
+"3 Queen St, Glasgow",Glasgow,G1 3,UK
+"18 Buchanan St, Glasgow",Glasgow,G1 2,UK
+"44 Princes St, Glasgow",Glasgow,G1 2,UK
+"7 West Nile St, Glasgow",Glasgow,G1 2,UK
+"99 Hope St, Glasgow",Glasgow,G2 6,UK
+"200 The Strand, London",London,WC2R 0,UK
+"77 Fleet St, London",London,EC4Y 1,UK
+"3 Market St, Belfast",Belfast,BT1 2,UK
+"55 Donegall Square, Belfast",Belfast,BT1,UK
+"12 Botanic Ave, Belfast",Belfast,BT7,UK
+"9 Great Victoria St, Belfast",Belfast,BT2,UK
+"8 Waring St, Belfast",Belfast,BT1,UK
+"10 Rua XV de Novembro, Curitiba",Curitiba,80020-310,Brazil
+"22 Av. Sete de Setembro, Curitiba",Curitiba,80010-000,Brazil
+"3 Rua XV, Florianópolis",Florianópolis,88010-000,Brazil
+"44 Rua das Palmeiras, Salvador",Salvador,40000-000,Brazil
+"12 Calle Uruguay, Montevideo",Montevideo,11000,Uruguay
+"8 Calle Sarandí, Montevideo",Montevideo,11000,Uruguay
+"5 Calle 18, Montevideo",Montevideo,11000,Uruguay
+"9 Avenida de Mayo, Buenos Aires",Buenos Aires,C1085,Argentina
+"77 Calle Florida, Buenos Aires",Buenos Aires,C1005,Argentina
+"14 Calle Sarmiento, Buenos Aires",Buenos Aires,C1008,Argentina
+"18 Avenida 9 de Julio, Buenos Aires",Buenos Aires,C1033,Argentina
+"25 Calle Defensa, Buenos Aires",Buenos Aires,C1065,Argentina
+"44 Calle Corrientes, Buenos Aires",Buenos Aires,C1043,Argentina
+"55 Calle Tucumán, Buenos Aires",Buenos Aires,C1049,Argentina
+"12 Calle Suipacha, Buenos Aires",Buenos Aires,C1008,Argentina
+"9 Calle Florida, Buenos Aires",Buenos Aires,C1005,Argentina
+"1 Paseo Colon, Buenos Aires",Buenos Aires,C1064,Argentina
+"77 Avenida Alvear, Buenos Aires",Buenos Aires,C1014,Argentina
+"18 Calle Reconquista, Buenos Aires",Buenos Aires,C1004,Argentina
+"99 Av. Corrientes, Buenos Aires",Buenos Aires,C1043,Argentina
+"7 Calle Rivadavia, Buenos Aires",Buenos Aires,C1033,Argentina
+"13 Calle Lavalle, Buenos Aires",Buenos Aires,C1043,Argentina
+"30 Avenida Libertador, Buenos Aires",Buenos Aires,C1425,Argentina
+"21 Avenida Córdoba, Buenos Aires",Buenos Aires,C1054,Argentina
+"9 Calle Pichincha, Quito",Quito,170401,Ecuador
+"11 Calle La Ronda, Quito",Quito,170401,Ecuador
+"18 Avenida Amazonas, Quito",Quito,170150,Ecuador
+"3 Calle Guayaquil, Quito",Quito,170401,Ecuador
+"77 Calle Sucre, Quito",Quito,170401,Ecuador
+"2 Invalid Sample Addr",Unknown,,Unknown
+"15 No City Provided St",,00000,Unknown
+"9999 Some Random Road Apt 999",Somewhere,99999,Unknown
+"PO Box 12345, Nowhere",Nowhere,00000,Unknown
+"Apartment 7, 12 Imaginary Ln",Imaginary,00000,Nowhere
+"Flat 2B, 5 Fictional Rd",Fictional,00000,Nowhere
+"Building X, Unknown Street",Unknown,00000,Unknown
+"Unit 101, 2000 Sunset Blvd",Los Angeles,90026,USA
+"3500 Barrow St, Greenwich Village, NY",New York,10014,USA
+"125 Canal St, New York",New York,10002,USA
+"678 Broadway, New York",New York,10012,USA
+"201 W 14th St, New York",New York,10011,USA
+"50 N Long St, Columbus",Columbus,43215,USA
+"12 S High St, Columbus",Columbus,43215,USA
+"88 Broad St, Columbus",Columbus,43215,USA
+"9 W Main St, Columbus",Columbus,43215,USA
+"101 State St, Albany",Albany,12207,USA
+"22 Washington Ave, Albany",Albany,12210,USA
+"7 Pearl St, Albany",Albany,12207,USA
+"18 Dutch St, Albany",Albany,12207,USA
+"6 Market Sq, Providence",Providence,02903,USA
+"44 Weybosset St, Providence",Providence,02903,USA
+"77 Westminster St, Providence",Providence,02903,USA
+"3 Thayer St, Providence",Providence,02906,USA
+"15 Hope St, Providence",Providence,02906,USA
+"9 Pine St, Boston",Boston,02108,USA
+"20 State St, Boston",Boston,02109,USA
+"100 Summer St, Boston",Boston,02110,USA
+"44 Court St, Boston",Boston,02108,USA
+"88 Beacon St, Boston",Boston,02108,USA

@@ -108,5 +108,4663 @@
       ]
     },
     "success": true
+  },
+  "742 evergreen terrace, springfield": {
+    "lat": 45.4775116,
+    "lon": -122.8424667,
+    "raw": {
+      "place_id": 300618871,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 5395324,
+      "lat": "45.4775116",
+      "lon": "-122.8424667",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.053391992828259675,
+      "addresstype": "road",
+      "name": "Southwest Springfield Lane",
+      "display_name": "Southwest Springfield Lane, Evergreen Terrace, Washington County, Oregon, 97007, United States of America",
+      "boundingbox": [
+        "45.4775031",
+        "45.4775201",
+        "-122.8429560",
+        "-122.8419774"
+      ]
+    },
+    "success": true
+  },
+  "221b baker st, london": {
+    "lat": 51.5233879,
+    "lon": -0.1582367,
+    "raw": {
+      "place_id": 258115946,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 5568763423,
+      "lat": "51.5233879",
+      "lon": "-0.1582367",
+      "class": "tourism",
+      "type": "attraction",
+      "place_rank": 30,
+      "importance": 9.307927061870783e-05,
+      "addresstype": "tourism",
+      "name": "221B Baker Street",
+      "display_name": "221B Baker Street, Baker Street, Marylebone, City of Westminster, Greater London, England, NW1 5RS, United Kingdom",
+      "boundingbox": [
+        "51.5233379",
+        "51.5234379",
+        "-0.1582867",
+        "-0.1581867"
+      ]
+    },
+    "success": true
+  },
+  "350 fifth avenue, manhattan, ny": {
+    "lat": 40.8021613,
+    "lon": -73.9453686,
+    "raw": {
+      "place_id": 331217577,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1271518873,
+      "lat": "40.8021613",
+      "lon": "-73.9453686",
+      "class": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.568635634246592,
+      "addresstype": "road",
+      "name": "5th Avenue",
+      "display_name": "5th Avenue, Manhattan Community Board 11, Manhattan, New York County, City of New York, New York, 10035, United States of America",
+      "boundingbox": [
+        "40.8019710",
+        "40.8023524",
+        "-73.9455080",
+        "-73.9452302"
+      ]
+    },
+    "success": true
+  },
+  "50 king st, manchester": {
+    "lat": 53.4811334,
+    "lon": -2.2458344,
+    "raw": {
+      "place_id": 256166620,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 9609319731,
+      "lat": "53.4811334",
+      "lon": "-2.2458344",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 7.817273212782509e-05,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "50, King Street, Civic Quarter, City Centre, Manchester, Greater Manchester, England, M2 4LY, United Kingdom",
+      "boundingbox": [
+        "53.4810834",
+        "53.4811834",
+        "-2.2458844",
+        "-2.2457844"
+      ]
+    },
+    "success": true
+  },
+  "1601 willow rd, menlo park, ca": {
+    "lat": 37.4521403,
+    "lon": -122.167768,
+    "raw": {
+      "place_id": 300040005,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1094609371,
+      "lat": "37.4521403",
+      "lon": "-122.1677680",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.05339988784618902,
+      "addresstype": "road",
+      "name": "Willow Road",
+      "display_name": "Willow Road, Menlo Park, San Mateo County, California, 94301, United States of America",
+      "boundingbox": [
+        "37.4521174",
+        "37.4522177",
+        "-122.1679033",
+        "-122.1676577"
+      ]
+    },
+    "success": true
+  },
+  "5 queen st, auckland": {
+    "lat": -36.8762167,
+    "lon": 174.7423065,
+    "raw": {
+      "place_id": 21400508,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 339471455,
+      "lat": "-36.8762167",
+      "lon": "174.7423065",
+      "class": "building",
+      "type": "residential",
+      "place_rank": 30,
+      "importance": 7.485084306091428e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "5, Reimers Avenue, Eden Valley, Mount Eden, Albert-Eden, Auckland, 1021, Aotearoa / New Zealand",
+      "boundingbox": [
+        "-36.8763148",
+        "-36.8761561",
+        "174.7422331",
+        "174.7423800"
+      ]
+    },
+    "success": true
+  },
+  "500 terry a francois blvd, san francisco, ca": {
+    "lat": 37.77035,
+    "lon": -122.3873489,
+    "raw": {
+      "place_id": 298323703,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 28844040,
+      "lat": "37.7703500",
+      "lon": "-122.3873489",
+      "class": "building",
+      "type": "office",
+      "place_rank": 30,
+      "importance": 8.251392385743523e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "500, Terry A. François Boulevard, Mission Bay, San Francisco, California, 94158, United States of America",
+      "boundingbox": [
+        "37.7699737",
+        "37.7707748",
+        "-122.3876328",
+        "-122.3866584"
+      ]
+    },
+    "success": true
+  },
+  "3 abbey rd, london": {
+    "lat": 51.531988,
+    "lon": -0.178226,
+    "raw": {
+      "place_id": 257767831,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 396544249,
+      "lat": "51.5319880",
+      "lon": "-0.1782260",
+      "class": "amenity",
+      "type": "studio",
+      "place_rank": 30,
+      "importance": 9.307927061870783e-05,
+      "addresstype": "amenity",
+      "name": "Abbey Road Studios",
+      "display_name": "Abbey Road Studios, 3, Abbey Road, St. John's Wood, City of Westminster, Greater London, England, NW8 9AY, United Kingdom",
+      "boundingbox": [
+        "51.5317392",
+        "51.5322541",
+        "-0.1786405",
+        "-0.1777956"
+      ]
+    },
+    "success": true
+  },
+  "4 rue de la paix, paris": {
+    "lat": 48.8685653,
+    "lon": 2.3307123,
+    "raw": {
+      "place_id": 88729820,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 689143133,
+      "lat": "48.8685653",
+      "lon": "2.3307123",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.317235065227768e-05,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "4, Rue de la Paix, Quartier Gaillon, Paris 2e Arrondissement, Paris, Île-de-France, France métropolitaine, 75002, France",
+      "boundingbox": [
+        "48.8685153",
+        "48.8686153",
+        "2.3306623",
+        "2.3307623"
+      ]
+    },
+    "success": true
+  },
+  "12 bahnhofstrasse, zurich": {
+    "lat": 47.3682931,
+    "lon": 8.5400775,
+    "raw": {
+      "place_id": 65132910,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 290296837,
+      "lat": "47.3682931",
+      "lon": "8.5400775",
+      "class": "building",
+      "type": "apartments",
+      "place_rank": 30,
+      "importance": 7.85145342183111e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "12, Bahnhofstrasse, Lindenhof, Altstadt, Zürich, Bezirk Zürich, Zürich, 8001, Schweiz/Suisse/Svizzera/Svizra",
+      "boundingbox": [
+        "47.3682037",
+        "47.3683841",
+        "8.5399535",
+        "8.5402019"
+      ]
+    },
+    "success": true
+  },
+  "24 karl-marx-straße, berlin": {
+    "lat": 52.4846232,
+    "lon": 13.4277523,
+    "raw": {
+      "place_id": 134797450,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 1648432521,
+      "lat": "52.4846232",
+      "lon": "13.4277523",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 8.875486381318407e-05,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "24, Karl-Marx-Straße, Flughafenkiez, Neukölln, Berlin, 12043, Deutschland",
+      "boundingbox": [
+        "52.4845732",
+        "52.4846732",
+        "13.4277023",
+        "13.4278023"
+      ]
+    },
+    "success": true
+  },
+  "88 high st, edinburgh": {
+    "lat": 40.7497898,
+    "lon": -81.8346083,
+    "raw": {
+      "place_id": 361911226,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 19304581,
+      "lat": "40.7497898",
+      "lon": "-81.8346083",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "88, High Street, Edinburgh, Apple Creek, Wayne County, Ohio, 44606, United States of America",
+      "boundingbox": [
+        "40.7497398",
+        "40.7498398",
+        "-81.8346583",
+        "-81.8345583"
+      ]
+    },
+    "success": true
+  },
+  "77 o'connell st, dublin": {
+    "lat": 53.3515479,
+    "lon": -6.2611294,
+    "raw": {
+      "place_id": 255239505,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1297446344,
+      "lat": "53.3515479",
+      "lon": "-6.2611294",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.05341349279011212,
+      "addresstype": "road",
+      "name": "O'Connell Street Upper",
+      "display_name": "O'Connell Street Upper, North City Ward 1986, Dublin, County Dublin, Leinster, D01 E796, Éire / Ireland",
+      "boundingbox": [
+        "53.3511752",
+        "53.3519190",
+        "-6.2612953",
+        "-6.2609672"
+      ]
+    },
+    "success": true
+  },
+  "200 king st w, toronto": {
+    "lat": 43.647872,
+    "lon": -79.3855917,
+    "raw": {
+      "place_id": 323597917,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 179222094,
+      "lat": "43.6478720",
+      "lon": "-79.3855917",
+      "class": "building",
+      "type": "office",
+      "place_rank": 30,
+      "importance": 8.130235751883753e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "200, King Street West, Wellington Place, Spadina—Fort York, Toronto, Golden Horseshoe, Ontario, M5J 1V6, Canada",
+      "boundingbox": [
+        "43.6475911",
+        "43.6481519",
+        "-79.3859234",
+        "-79.3852530"
+      ]
+    },
+    "success": true
+  },
+  "250 queen st, brisbane": {
+    "lat": -27.4639551,
+    "lon": 153.0314317,
+    "raw": {
+      "place_id": 354029779,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1331260459,
+      "lat": "-27.4639551",
+      "lon": "153.0314317",
+      "class": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.3707898659108883,
+      "addresstype": "road",
+      "name": "Queen Street",
+      "display_name": "Queen Street, Golden Triangle, Brisbane City, Greater Brisbane, Queensland, 4000, Australia",
+      "boundingbox": [
+        "-27.4644051",
+        "-27.4635072",
+        "153.0313404",
+        "153.0314561"
+      ]
+    },
+    "success": true
+  },
+  "11 rue du faubourg saint-honoré, paris": {
+    "lat": 48.8686463,
+    "lon": 2.3221032,
+    "raw": {
+      "place_id": 88686619,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 810629549,
+      "lat": "48.8686463",
+      "lon": "2.3221032",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.317235065227768e-05,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "11, Rue du Faubourg Saint-Honoré, Quartier de la Madeleine, Paris 8e Arrondissement, Paris, Île-de-France, France métropolitaine, 75008, France",
+      "boundingbox": [
+        "48.8685963",
+        "48.8686963",
+        "2.3220532",
+        "2.3221532"
+      ]
+    },
+    "success": true
+  },
+  "8 avenida paulista, são paulo": {
+    "lat": -23.5568602,
+    "lon": -46.6614121,
+    "raw": {
+      "place_id": 8438068,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 230783567,
+      "lat": "-23.5568602",
+      "lon": "-46.6614121",
+      "class": "highway",
+      "type": "primary",
+      "place_rank": 26,
+      "importance": 0.4975637695124025,
+      "addresstype": "road",
+      "name": "Avenida Paulista",
+      "display_name": "Avenida Paulista, Consolação, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 01414-000, Brasil",
+      "boundingbox": [
+        "-23.5571529",
+        "-23.5565674",
+        "-46.6617318",
+        "-46.6610923"
+      ]
+    },
+    "success": true
+  },
+  "14 calle gran vía, madrid": {
+    "lat": 40.4726655,
+    "lon": -3.8720308,
+    "raw": {
+      "place_id": 270509662,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 12265668641,
+      "lat": "40.4726655",
+      "lon": "-3.8720308",
+      "class": "amenity",
+      "type": "fast_food",
+      "place_rank": 30,
+      "importance": 5.968795300216705e-05,
+      "addresstype": "amenity",
+      "name": "Papa John's",
+      "display_name": "Papa John's, 14, Calle Gran Vía, Barrio La Mina, Majadahonda, Comunidad de Madrid, 28220, España",
+      "boundingbox": [
+        "40.4726155",
+        "40.4727155",
+        "-3.8720808",
+        "-3.8719808"
+      ]
+    },
+    "success": true
+  },
+  "9 via dei condotti, rome": {
+    "lat": 41.9055366,
+    "lon": 12.4816779,
+    "raw": {
+      "place_id": 73398855,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 12057829460,
+      "lat": "41.9055366",
+      "lon": "12.4816779",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 8.896238651097914e-05,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "9, Via dei Condotti, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",
+      "boundingbox": [
+        "41.9054866",
+        "41.9055866",
+        "12.4816279",
+        "12.4817279"
+      ]
+    },
+    "success": true
+  },
+  "60 rue sainte-catherine, bordeaux": {
+    "lat": 44.83959,
+    "lon": -0.5740666,
+    "raw": {
+      "place_id": 267164613,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 2487043127,
+      "lat": "44.8395900",
+      "lon": "-0.5740666",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 7.740215152204192e-05,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "60, Rue Sainte-Catherine, Bordeaux, Port de la Lune, Bordeaux Centre, Bordeaux, Gironde, Nouvelle-Aquitaine, France métropolitaine, 33000, France",
+      "boundingbox": [
+        "44.8395400",
+        "44.8396400",
+        "-0.5741166",
+        "-0.5740166"
+      ]
+    },
+    "success": true
+  },
+  "101 prins hendrikkade, amsterdam": {
+    "lat": 52.3756945,
+    "lon": 4.9029277,
+    "raw": {
+      "place_id": 142904060,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 2725793224,
+      "lat": "52.3756945",
+      "lon": "4.9029277",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 8.268177309829888e-05,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "101B, Prins Hendrikkade, Nieuwmarkt/Lastage, Centrum, Amsterdam, Noord-Holland, Nederland, 1011 AH, Nederland",
+      "boundingbox": [
+        "52.3756445",
+        "52.3757445",
+        "4.9028777",
+        "4.9029777"
+      ]
+    },
+    "success": true
+  },
+  "23 limmatquai, zurich": {
+    "lat": 47.3761389,
+    "lon": 8.5436969,
+    "raw": {
+      "place_id": 65331450,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 136124104,
+      "lat": "47.3761389",
+      "lon": "8.5436969",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.3273081215768944,
+      "addresstype": "road",
+      "name": "Limmatquai",
+      "display_name": "Limmatquai, Rathaus, Altstadt, Zürich, Bezirk Zürich, Zürich, 8001, Schweiz/Suisse/Svizzera/Svizra",
+      "boundingbox": [
+        "47.3760142",
+        "47.3763162",
+        "8.5435377",
+        "8.5437934"
+      ]
+    },
+    "success": true
+  },
+  "45 friedrichstrasse, berlin": {
+    "lat": 52.5075917,
+    "lon": 13.3907378,
+    "raw": {
+      "place_id": 133868527,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 4817365211,
+      "lat": "52.5075917",
+      "lon": "13.3907378",
+      "class": "amenity",
+      "type": "fast_food",
+      "place_rank": 30,
+      "importance": 8.875486381318407e-05,
+      "addresstype": "amenity",
+      "name": "KFC",
+      "display_name": "KFC, 45, Friedrichstraße, Zeitungsviertel, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10969, Deutschland",
+      "boundingbox": [
+        "52.5075417",
+        "52.5076417",
+        "13.3906878",
+        "13.3907878"
+      ]
+    },
+    "success": true
+  },
+  "3000 5th ave n, birmingham": {
+    "lat": 33.5200791,
+    "lon": -86.8040108,
+    "raw": {
+      "place_id": 317500826,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 259314454,
+      "lat": "33.5200791",
+      "lon": "-86.8040108",
+      "class": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.05339903181506062,
+      "addresstype": "road",
+      "name": "5th Avenue North",
+      "display_name": "5th Avenue North, Morris Avenue-First Avenue North Historic District, Birmingham, Jefferson County, Alabama, 35203, United States of America",
+      "boundingbox": [
+        "33.5194210",
+        "33.5207360",
+        "-86.8053830",
+        "-86.8026380"
+      ]
+    },
+    "success": true
+  },
+  "6 avenida de la constitución, seville": {
+    "lat": 37.9375406,
+    "lon": -5.7591471,
+    "raw": {
+      "place_id": 272956774,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 3297311539,
+      "lat": "37.9375406",
+      "lon": "-5.7591471",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 5.660563057903437e-05,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "6, Avenida de la Constitución, El Carmen, El Llanillo, Cazalla de la Sierra, Sevilla, Andalucía, 41370, España",
+      "boundingbox": [
+        "37.9374906",
+        "37.9375906",
+        "-5.7591971",
+        "-5.7590971"
+      ]
+    },
+    "success": true
+  },
+  "700 king george v ave, accra": {
+    "lat": null,
+    "lon": null,
+    "raw": null,
+    "success": false
+  },
+  "12 adeola odeku st, lagos": {
+    "lat": 6.430594,
+    "lon": 3.4164261,
+    "raw": {
+      "place_id": 36341881,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 134684101,
+      "lat": "6.4305940",
+      "lon": "3.4164261",
+      "class": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.053403073929961055,
+      "addresstype": "road",
+      "name": "Adeola Odeku Street",
+      "display_name": "Adeola Odeku Street, Victoria Island, Itirin, Eti Osa, Lagos, 101241, Nigeria",
+      "boundingbox": [
+        "6.4291572",
+        "6.4306198",
+        "3.4087993",
+        "3.4239774"
+      ]
+    },
+    "success": true
+  },
+  "9 victoria island, lagos": {
+    "lat": 6.4300279,
+    "lon": 3.4259904,
+    "raw": {
+      "place_id": 36070229,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 501471396,
+      "lat": "6.4300279",
+      "lon": "3.4259904",
+      "class": "place",
+      "type": "suburb",
+      "place_rank": 19,
+      "importance": 0.3492951598221698,
+      "addresstype": "suburb",
+      "name": "Victoria Island",
+      "display_name": "Victoria Island, Itirin, Eti Osa, Lagos, 500001, Nigeria",
+      "boundingbox": [
+        "6.4100279",
+        "6.4500279",
+        "3.4059904",
+        "3.4459904"
+      ]
+    },
+    "success": true
+  },
+  "21 oxford st, london": {
+    "lat": 51.5143256,
+    "lon": -0.1496938,
+    "raw": {
+      "place_id": 260116204,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 204726687,
+      "lat": "51.5143256",
+      "lon": "-0.1496938",
+      "class": "highway",
+      "type": "primary",
+      "place_rank": 26,
+      "importance": 0.5234054631758154,
+      "addresstype": "road",
+      "name": "Oxford Street",
+      "display_name": "Oxford Street, East Marylebone, Mayfair, City of Westminster, Greater London, England, W1C 1JN, United Kingdom",
+      "boundingbox": [
+        "51.5142692",
+        "51.5143915",
+        "-0.1502156",
+        "-0.1491731"
+      ]
+    },
+    "success": true
+  },
+  "33 rue de rivoli, paris": {
+    "lat": 48.857547,
+    "lon": 2.3507258,
+    "raw": {
+      "place_id": 88551833,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 2211556497,
+      "lat": "48.8575470",
+      "lon": "2.3507258",
+      "class": "amenity",
+      "type": "bank",
+      "place_rank": 30,
+      "importance": 9.317235065227768e-05,
+      "addresstype": "amenity",
+      "name": "BRED",
+      "display_name": "BRED, 33, Rue de Rivoli, Quartier Saint-Merri, Paris 4e Arrondissement, Paris, Île-de-France, France métropolitaine, 75004, France",
+      "boundingbox": [
+        "48.8574970",
+        "48.8575970",
+        "2.3506758",
+        "2.3507758"
+      ]
+    },
+    "success": true
+  },
+  "400 collins st, melbourne": {
+    "lat": -37.8168799,
+    "lon": 144.9609663,
+    "raw": {
+      "place_id": 393212411,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 12418154074,
+      "lat": "-37.8168799",
+      "lon": "144.9609663",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 8.045242999919154e-05,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "400-402, Collins Street, Melbourne, City of Melbourne, Victoria, 3000, Australia",
+      "boundingbox": [
+        "-37.8169299",
+        "-37.8168299",
+        "144.9609163",
+        "144.9610163"
+      ]
+    },
+    "success": true
+  },
+  "88 rue du bac, paris": {
+    "lat": 48.8547311,
+    "lon": 2.3242436,
+    "raw": {
+      "place_id": 88870236,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 913973406,
+      "lat": "48.8547311",
+      "lon": "2.3242436",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.317235065227768e-05,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "88, Rue du Bac, Quartier Saint-Thomas-d'Aquin, Paris 7e Arrondissement, Paris, Île-de-France, France métropolitaine, 75007, France",
+      "boundingbox": [
+        "48.8546811",
+        "48.8547811",
+        "2.3241936",
+        "2.3242936"
+      ]
+    },
+    "success": true
+  },
+  "77 avenida da liberdade, lisbon": {
+    "lat": 38.7180145,
+    "lon": -9.1442977,
+    "raw": {
+      "place_id": 272934370,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 4781638181,
+      "lat": "38.7180145",
+      "lon": "-9.1442977",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 8.149767299911524e-05,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "77, Avenida da Liberdade, São José, Santo António, Madalena, Lisboa, 1250-144, Portugal",
+      "boundingbox": [
+        "38.7179645",
+        "38.7180645",
+        "-9.1443477",
+        "-9.1442477"
+      ]
+    },
+    "success": true
+  },
+  "12 rua augusta, lisbon": {
+    "lat": 38.7090515,
+    "lon": -9.1370441,
+    "raw": {
+      "place_id": 272941640,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 906947639,
+      "lat": "38.7090515",
+      "lon": "-9.1370441",
+      "class": "highway",
+      "type": "pedestrian",
+      "place_rank": 26,
+      "importance": 0.26074447183303784,
+      "addresstype": "road",
+      "name": "Rua Augusta",
+      "display_name": "Rua Augusta, Santa Maria Maior, Madalena, Lisboa, 1100-150, Portugal",
+      "boundingbox": [
+        "38.7085079",
+        "38.7095919",
+        "-9.1372595",
+        "-9.1368369"
+      ]
+    },
+    "success": true
+  },
+  "18 calle de atocha, madrid": {
+    "lat": 40.4135279,
+    "lon": -3.7017059,
+    "raw": {
+      "place_id": 269505783,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 423231391,
+      "lat": "40.4135279",
+      "lon": "-3.7017059",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.053419141680018274,
+      "addresstype": "road",
+      "name": "Calle de Atocha",
+      "display_name": "Calle de Atocha, Barrio de las Letras, Cortes, Centro, Madrid, Comunidad de Madrid, 28012, España",
+      "boundingbox": [
+        "40.4128786",
+        "40.4140941",
+        "-3.7033291",
+        "-3.7001141"
+      ]
+    },
+    "success": true
+  },
+  "102 gran vía, madrid": {
+    "lat": 40.4226636,
+    "lon": -3.7096954,
+    "raw": {
+      "place_id": 271612977,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 651525544,
+      "lat": "40.4226636",
+      "lon": "-3.7096954",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.43790696681353464,
+      "addresstype": "road",
+      "name": "Gran Vía",
+      "display_name": "Gran Vía, Malasaña, Universidad, Centro, Madrid, Comunidad de Madrid, 28013, España",
+      "boundingbox": [
+        "40.4223764",
+        "40.4229509",
+        "-3.7101481",
+        "-3.7092427"
+      ]
+    },
+    "success": true
+  },
+  "5 avenida reforma, mexico city": {
+    "lat": 19.4231514,
+    "lon": -99.1749005,
+    "raw": {
+      "place_id": 288275806,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 124506588,
+      "lat": "19.4231514",
+      "lon": "-99.1749005",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05342732661936366,
+      "addresstype": "road",
+      "name": "Avenida Reforma",
+      "display_name": "Avenida Reforma, Pequeño Seúl, Juárez, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
+      "boundingbox": [
+        "19.4230831",
+        "19.4232129",
+        "-99.1750131",
+        "-99.1747840"
+      ]
+    },
+    "success": true
+  },
+  "200 george st, sydney": {
+    "lat": -33.8624832,
+    "lon": 151.2078557,
+    "raw": {
+      "place_id": 19568548,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 8767940657,
+      "lat": "-33.8624832",
+      "lon": "151.2078557",
+      "class": "office",
+      "type": "energy_supplier",
+      "place_rank": 30,
+      "importance": 0.41830549678960816,
+      "addresstype": "office",
+      "name": "AGL Energy Limited",
+      "display_name": "AGL Energy Limited, 200, George Street, Quay Quarter, Sydney, Sydney CBD, Sydney, Council of the City of Sydney, New South Wales, 2000, Australia",
+      "boundingbox": [
+        "-33.8625332",
+        "-33.8624332",
+        "151.2078057",
+        "151.2079057"
+      ]
+    },
+    "success": true
+  },
+  "14 jalan bukit bintang, kuala lumpur": {
+    "lat": 3.144717,
+    "lon": 101.7083199,
+    "raw": {
+      "place_id": 410036946,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1409380946,
+      "lat": "3.1447170",
+      "lon": "101.7083199",
+      "class": "building",
+      "type": "commercial",
+      "place_rank": 30,
+      "importance": 7.505989166089902e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "14, Jalan Bukit Bintang, Bukit Bintang, Kuala Lumpur, 55100, Malaysia",
+      "boundingbox": [
+        "3.1446055",
+        "3.1448716",
+        "101.7081913",
+        "101.7084148"
+      ]
+    },
+    "success": true
+  },
+  "3 chome-1-1 marunouchi, chiyoda city, tokyo": {
+    "lat": null,
+    "lon": null,
+    "raw": null,
+    "success": false
+  },
+  "1 harbour rd, wan chai": {
+    "lat": 22.2811386,
+    "lon": 114.1729254,
+    "raw": {
+      "place_id": 220079906,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 26490161,
+      "lat": "22.2811386",
+      "lon": "114.1729254",
+      "class": "building",
+      "type": "commercial",
+      "place_rank": 30,
+      "importance": 8.64309147783172e-05,
+      "addresstype": "building",
+      "name": "舊翼 Old Wing",
+      "display_name": "舊翼 Old Wing, 1, 港灣道 Harbour Road, 灣仔北 Wan Chai North, 灣仔 Wan Chai, 灣仔區 Wan Chai District, 香港島 Hong Kong Island, 香港 Hong Kong, 中国",
+      "boundingbox": [
+        "22.2806296",
+        "22.2816020",
+        "114.1718763",
+        "114.1739665"
+      ]
+    },
+    "success": true
+  },
+  "16 nathan rd, tsim sha tsui": {
+    "lat": 22.2959638,
+    "lon": 114.1723295,
+    "raw": {
+      "place_id": 219379567,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1118626553,
+      "lat": "22.2959638",
+      "lon": "114.1723295",
+      "class": "highway",
+      "type": "primary",
+      "place_rank": 26,
+      "importance": 0.45931590256417504,
+      "addresstype": "road",
+      "name": "彌敦道 Nathan Road",
+      "display_name": "彌敦道 Nathan Road, 尖沙咀 Tsim Sha Tsui, 油尖旺區 Yau Tsim Mong District, 九龍 Kowloon, 香港 Hong Kong, 中国",
+      "boundingbox": [
+        "22.2957399",
+        "22.2961876",
+        "114.1723119",
+        "114.1723446"
+      ]
+    },
+    "success": true
+  },
+  "77 rundle mall, adelaide": {
+    "lat": -34.9228351,
+    "lon": 138.6025993,
+    "raw": {
+      "place_id": 18074290,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 225562373,
+      "lat": "-34.9228351",
+      "lon": "138.6025993",
+      "class": "highway",
+      "type": "pedestrian",
+      "place_rank": 26,
+      "importance": 0.05340822384985119,
+      "addresstype": "road",
+      "name": "Rundle Mall",
+      "display_name": "Rundle Mall, Adelaide, Adelaide City Council, South Australia, 5000, Australia",
+      "boundingbox": [
+        "-34.9229847",
+        "-34.9226844",
+        "138.5996198",
+        "138.6055787"
+      ]
+    },
+    "success": true
+  },
+  "9 princes hwy, wollongong": {
+    "lat": -34.4150323,
+    "lon": 150.8932546,
+    "raw": {
+      "place_id": 19661026,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 10557264951,
+      "lat": "-34.4150323",
+      "lon": "150.8932546",
+      "class": "amenity",
+      "type": "fuel",
+      "place_rank": 30,
+      "importance": 6.058060578312379e-05,
+      "addresstype": "amenity",
+      "name": "Ampol Foodary Wollongong North",
+      "display_name": "Ampol Foodary Wollongong North, 9, Flinders Street, Wollongong, Wollongong City Council, New South Wales, 2500, Australia",
+      "boundingbox": [
+        "-34.4150823",
+        "-34.4149823",
+        "150.8932046",
+        "150.8933046"
+      ]
+    },
+    "success": true
+  },
+  "18 via monte napoleone, milan": {
+    "lat": 45.4692618,
+    "lon": 9.194137,
+    "raw": {
+      "place_id": 67599364,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 1855676929,
+      "lat": "45.4692618",
+      "lon": "9.1941370",
+      "class": "office",
+      "type": "estate_agent",
+      "place_rank": 30,
+      "importance": 8.390707255660361e-05,
+      "addresstype": "office",
+      "name": "18Montenapoleone",
+      "display_name": "18Montenapoleone, 18, Via Monte Napoleone, Duomo, Municipio 1, Milano, Lombardia, 20121, Italia",
+      "boundingbox": [
+        "45.4692118",
+        "45.4693118",
+        "9.1940870",
+        "9.1941870"
+      ]
+    },
+    "success": true
+  },
+  "55 avenida da república, lisbon": {
+    "lat": 38.7021951,
+    "lon": -9.2318958,
+    "raw": {
+      "place_id": 398898486,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 12563478101,
+      "lat": "38.7021951",
+      "lon": "-9.2318958",
+      "class": "amenity",
+      "type": "restaurant",
+      "place_rank": 30,
+      "importance": 5.9312581063508315e-05,
+      "addresstype": "amenity",
+      "name": "Luar de Algés",
+      "display_name": "Luar de Algés, 55, Avenida da República, Baixa de Algés, Algés, Linda-a-Velha e Cruz Quebrada-Dafundo, Oeiras, Lisboa, 1495-111, Portugal",
+      "boundingbox": [
+        "38.7021451",
+        "38.7022451",
+        "-9.2319458",
+        "-9.2318458"
+      ]
+    },
+    "success": true
+  },
+  "42 strand, london": {
+    "lat": 39.8012263,
+    "lon": -75.802781,
+    "raw": {
+      "place_id": 380377037,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 14251391,
+      "lat": "39.8012263",
+      "lon": "-75.8027810",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "42, Strand Road, London Grove Township, Chester County, Pennsylvania, 19311, United States of America",
+      "boundingbox": [
+        "39.8011763",
+        "39.8012763",
+        "-75.8028310",
+        "-75.8027310"
+      ]
+    },
+    "success": true
+  },
+  "200 wacker dr, chicago": {
+    "lat": 41.8790618,
+    "lon": -87.6377402,
+    "raw": {
+      "place_id": 343713332,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 20217442,
+      "lat": "41.8790618",
+      "lon": "-87.6377402",
+      "class": "amenity",
+      "type": "ferry_terminal",
+      "place_rank": 30,
+      "importance": 8.51537346455637e-05,
+      "addresstype": "amenity",
+      "name": "Union Station/Willis Tower",
+      "display_name": "Union Station/Willis Tower, 200, South Upper Wacker Drive, Loop, Chicago, South Chicago Township, Cook County, Illinois, 60675, United States of America",
+      "boundingbox": [
+        "41.8790118",
+        "41.8791118",
+        "-87.6377902",
+        "-87.6376902"
+      ]
+    },
+    "success": true
+  },
+  "7 bloor st w, toronto": {
+    "lat": 43.6700564,
+    "lon": -79.3871054,
+    "raw": {
+      "place_id": 28921750,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 401215570,
+      "lat": "43.6700564",
+      "lon": "-79.3871054",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "7, Bloor Street West, Annex, University—Rosedale, Toronto, Golden Horseshoe, Ontario, M4W 1A3, Canada",
+      "boundingbox": [
+        "43.6700064",
+        "43.6701064",
+        "-79.3871554",
+        "-79.3870554"
+      ]
+    },
+    "success": true
+  },
+  "66 queen st, auckland": {
+    "lat": -36.845735,
+    "lon": 174.7665019,
+    "raw": {
+      "place_id": 22095714,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 5400471600,
+      "lat": "-36.8457350",
+      "lon": "174.7665019",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 0.14849832320947157,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "66, Queen Street, Britomart, Viaduct Harbour, City Centre, Waitematā, Auckland, 1010, Aotearoa / New Zealand",
+      "boundingbox": [
+        "-36.8457850",
+        "-36.8456850",
+        "174.7664519",
+        "174.7665519"
+      ]
+    },
+    "success": true
+  },
+  "99 princes st, edinburgh": {
+    "lat": 55.9516073,
+    "lon": -3.1998512,
+    "raw": {
+      "place_id": 254863738,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 3172191658,
+      "lat": "55.9516073",
+      "lon": "-3.1998512",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 7.767071030742378e-05,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "99, Princes Street, New Town, New Town/Broughton, City of Edinburgh, Alba / Scotland, EH2 3AA, United Kingdom",
+      "boundingbox": [
+        "55.9515573",
+        "55.9516573",
+        "-3.1999012",
+        "-3.1998012"
+      ]
+    },
+    "success": true
+  },
+  "123 grafton st, dublin": {
+    "lat": 32.0852025,
+    "lon": -98.341225,
+    "raw": {
+      "place_id": 356394362,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 20913136,
+      "lat": "32.0852025",
+      "lon": "-98.3412250",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "123, North Grafton Street, Dublin, Erath County, Texas, 76446, United States of America",
+      "boundingbox": [
+        "32.0851525",
+        "32.0852525",
+        "-98.3412750",
+        "-98.3411750"
+      ]
+    },
+    "success": true
+  },
+  "8 rua oscar freire, são paulo": {
+    "lat": -23.5550745,
+    "lon": -46.6751794,
+    "raw": {
+      "place_id": 8553580,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 5691291074,
+      "lat": "-23.5550745",
+      "lon": "-46.6751794",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 7.861829556720863e-05,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "2000 C8, Rua Oscar Freire, Jardim Paulista, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 05409-011, Brasil",
+      "boundingbox": [
+        "-23.5551245",
+        "-23.5550245",
+        "-46.6752294",
+        "-46.6751294"
+      ]
+    },
+    "success": true
+  },
+  "45 calle serrano, madrid": {
+    "lat": 40.4291923,
+    "lon": -3.6873531,
+    "raw": {
+      "place_id": 271223040,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 4461053390,
+      "lat": "40.4291923",
+      "lon": "-3.6873531",
+      "class": "shop",
+      "type": "jewelry",
+      "place_rank": 30,
+      "importance": 8.580834668493199e-05,
+      "addresstype": "shop",
+      "name": "Rolex",
+      "display_name": "Rolex, 45, Calle de Serrano, Recoletos, Salamanca, Madrid, Comunidad de Madrid, 28001, España",
+      "boundingbox": [
+        "40.4291423",
+        "40.4292423",
+        "-3.6874031",
+        "-3.6873031"
+      ]
+    },
+    "success": true
+  },
+  "30 king st, manchester": {
+    "lat": 42.9777535,
+    "lon": -71.4816407,
+    "raw": {
+      "place_id": 372508416,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 5619943,
+      "lat": "42.9777535",
+      "lon": "-71.4816407",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "30, King Street, Mast Road, West Side, Manchester, Hillsborough County, New Hampshire, 03102, United States of America",
+      "boundingbox": [
+        "42.9777035",
+        "42.9778035",
+        "-71.4816907",
+        "-71.4815907"
+      ]
+    },
+    "success": true
+  },
+  "14 rua da prata, lisbon": {
+    "lat": 38.7088634,
+    "lon": -9.1360137,
+    "raw": {
+      "place_id": 274663141,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 4624286107,
+      "lat": "38.7088634",
+      "lon": "-9.1360137",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 8.149767299911524e-05,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "14, Rua da Prata, Santa Maria Maior, Madalena, Lisboa, 1149-027, Portugal",
+      "boundingbox": [
+        "38.7088134",
+        "38.7089134",
+        "-9.1360637",
+        "-9.1359637"
+      ]
+    },
+    "success": true
+  },
+  "1 circular quay, sydney": {
+    "lat": -33.8608189,
+    "lon": 151.2114929,
+    "raw": {
+      "place_id": 19579692,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 18183655,
+      "lat": "-33.8608189",
+      "lon": "151.2114929",
+      "class": "boundary",
+      "type": "administrative",
+      "place_rank": 12,
+      "importance": 0.24008246051728083,
+      "addresstype": "suburb",
+      "name": "Circular Quay",
+      "display_name": "Circular Quay, Sydney CBD, Unincorporated New South Wales, New South Wales, Australia",
+      "boundingbox": [
+        "-33.8612422",
+        "-33.8604863",
+        "151.2098178",
+        "151.2121469"
+      ]
+    },
+    "success": true
+  },
+  "2 market st, san francisco": {
+    "lat": 37.7935452,
+    "lon": -122.3960201,
+    "raw": {
+      "place_id": 299717280,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 224200968,
+      "lat": "37.7935452",
+      "lon": "-122.3960201",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.05341584725719078,
+      "addresstype": "road",
+      "name": "Market Street",
+      "display_name": "Market Street, Transbay, South of Market, San Francisco, California, 94111, United States of America",
+      "boundingbox": [
+        "37.7932761",
+        "37.7938135",
+        "-122.3963597",
+        "-122.3956799"
+      ]
+    },
+    "success": true
+  },
+  "88 broadway, new york": {
+    "lat": 41.9201349,
+    "lon": -73.9851436,
+    "raw": {
+      "place_id": 330347877,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 8446147232,
+      "lat": "41.9201349",
+      "lon": "-73.9851436",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 6.00572213320671e-05,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "88, Broadway, Rondout, City of Kingston, Ulster County, New York, 12401, United States of America",
+      "boundingbox": [
+        "41.9200849",
+        "41.9201849",
+        "-73.9851936",
+        "-73.9850936"
+      ]
+    },
+    "success": true
+  },
+  "77 queen st w, toronto": {
+    "lat": 43.6480718,
+    "lon": -79.3997014,
+    "raw": {
+      "place_id": 324810579,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 220955237,
+      "lat": "43.6480718",
+      "lon": "-79.3997014",
+      "class": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.05341463569085218,
+      "addresstype": "road",
+      "name": "Queen Street West",
+      "display_name": "Queen Street West, Kensington-Chinatown, Spadina—Fort York, Toronto, Golden Horseshoe, Ontario, M5V 2A8, Canada",
+      "boundingbox": [
+        "43.6476107",
+        "43.6485372",
+        "-79.4019962",
+        "-79.3974075"
+      ]
+    },
+    "success": true
+  },
+  "18 jalan besar, singapore": {
+    "lat": 1.3044091,
+    "lon": 103.8546874,
+    "raw": {
+      "place_id": 236424125,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1260651967,
+      "lat": "1.3044091",
+      "lon": "103.8546874",
+      "class": "highway",
+      "type": "primary",
+      "place_rank": 26,
+      "importance": 0.053417661554894295,
+      "addresstype": "road",
+      "name": "Jalan Besar",
+      "display_name": "Jalan Besar, Little India, Rochor, Central, Singapore, 208801, Singapore",
+      "boundingbox": [
+        "1.3043714",
+        "1.3044468",
+        "103.8546630",
+        "103.8547118"
+      ]
+    },
+    "success": true
+  },
+  "5 bukit timah rd, singapore": {
+    "lat": 1.335072,
+    "lon": 103.7856327,
+    "raw": {
+      "place_id": 236640596,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 481080477,
+      "lat": "1.3350720",
+      "lon": "103.7856327",
+      "class": "highway",
+      "type": "trunk",
+      "place_rank": 26,
+      "importance": 0.053417661554894295,
+      "addresstype": "road",
+      "name": "Bukit Timah Road",
+      "display_name": "Bukit Timah Road, Hock Seng Park, Bukit Timah, Northwest, Singapore, 589821, Singapore",
+      "boundingbox": [
+        "1.3344935",
+        "1.3356298",
+        "103.7841143",
+        "103.7871430"
+      ]
+    },
+    "success": true
+  },
+  "1200 avenida brasil, rio de janeiro": {
+    "lat": -22.8476339,
+    "lon": -43.2480526,
+    "raw": {
+      "place_id": 10043651,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 87102034,
+      "lat": "-22.8476339",
+      "lon": "-43.2480526",
+      "class": "landuse",
+      "type": "residential",
+      "place_rank": 22,
+      "importance": 0.1067481933318074,
+      "addresstype": "residential",
+      "name": "Avenida Brasil",
+      "display_name": "Avenida Brasil, Ramos, Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, Brasil",
+      "boundingbox": [
+        "-22.8483715",
+        "-22.8468500",
+        "-43.2494613",
+        "-43.2474939"
+      ]
+    },
+    "success": true
+  },
+  "44 calle florida, buenos aires": {
+    "lat": 9.065409,
+    "lon": -79.4270801,
+    "raw": {
+      "place_id": 282921483,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 387232288,
+      "lat": "9.0654090",
+      "lon": "-79.4270801",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05340152513923854,
+      "addresstype": "road",
+      "name": "Calle La Florida",
+      "display_name": "Calle La Florida, Buenos Aires, Pedregal, Distrito de Panamá, Provincia de Panamá, Panamá",
+      "boundingbox": [
+        "9.0614954",
+        "9.0694239",
+        "-79.4293097",
+        "-79.4246010"
+      ]
+    },
+    "success": true
+  },
+  "58 avenida corrientes, buenos aires": {
+    "lat": -34.6030252,
+    "lon": -58.3686823,
+    "raw": {
+      "place_id": 9719705,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 203183018,
+      "lat": "-34.6030252",
+      "lon": "-58.3686823",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "58, Avenida Corrientes, Microcentro, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1043AAN, Argentina",
+      "boundingbox": [
+        "-34.6030752",
+        "-34.6029752",
+        "-58.3687323",
+        "-58.3686323"
+      ]
+    },
+    "success": true
+  },
+  "2 rua das flores, porto": {
+    "lat": 41.1444533,
+    "lon": -8.6126415,
+    "raw": {
+      "place_id": 263782729,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 216268557,
+      "lat": "41.1444533",
+      "lon": "-8.6126415",
+      "class": "highway",
+      "type": "pedestrian",
+      "place_rank": 26,
+      "importance": 0.05340585259784844,
+      "addresstype": "road",
+      "name": "Rua das Flores",
+      "display_name": "Rua das Flores, Barredo, Lóios, Zona Histórica do Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória, Porto, 4050-421, Portugal",
+      "boundingbox": [
+        "41.1440033",
+        "41.1449145",
+        "-8.6135417",
+        "-8.6117476"
+      ]
+    },
+    "success": true
+  },
+  "7 rue de la république, lyon": {
+    "lat": 45.7664781,
+    "lon": 4.8361298,
+    "raw": {
+      "place_id": 81937465,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 1865408141,
+      "lat": "45.7664781",
+      "lon": "4.8361298",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 7.913862821388598e-05,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "7, Rue de la République, Terreaux, Lyon 1er Arrondissement, Lyon, Métropole de Lyon, Rhône, Auvergne-Rhône-Alpes, France métropolitaine, 69001, France",
+      "boundingbox": [
+        "45.7664281",
+        "45.7665281",
+        "4.8360798",
+        "4.8361798"
+      ]
+    },
+    "success": true
+  },
+  "10 piazza navona, rome": {
+    "lat": 41.8978601,
+    "lon": 12.472857,
+    "raw": {
+      "place_id": 73517833,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 11584452863,
+      "lat": "41.8978601",
+      "lon": "12.4728570",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 8.896238651097914e-05,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "10, Piazza Navona, Parione, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",
+      "boundingbox": [
+        "41.8978101",
+        "41.8979101",
+        "12.4728070",
+        "12.4729070"
+      ]
+    },
+    "success": true
+  },
+  "55 via toledo, naples": {
+    "lat": 40.843369,
+    "lon": 14.248973,
+    "raw": {
+      "place_id": 73073080,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 554073056,
+      "lat": "40.8433690",
+      "lon": "14.2489730",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.39076498731846804,
+      "addresstype": "road",
+      "name": "Via Toledo",
+      "display_name": "Via Toledo, Rione Carità, San Giuseppe, Municipalità 2, Napoli, Campania, 80134, Italia",
+      "boundingbox": [
+        "40.8428065",
+        "40.8439314",
+        "14.2489077",
+        "14.2490391"
+      ]
+    },
+    "success": true
+  },
+  "14 lacey st, hobart": {
+    "lat": null,
+    "lon": null,
+    "raw": null,
+    "success": false
+  },
+  "9 kloof st, cape town": {
+    "lat": -33.9271916,
+    "lon": 18.4135548,
+    "raw": {
+      "place_id": 29600323,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 740789191,
+      "lat": "-33.9271916",
+      "lon": "18.4135548",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.053407747768368014,
+      "addresstype": "road",
+      "name": "Kloof Street",
+      "display_name": "Kloof Street, Cape Town Ward 115, Cape Town, City of Cape Town, Western Cape, 8001, South Africa",
+      "boundingbox": [
+        "-33.9272710",
+        "-33.9271121",
+        "18.4134752",
+        "18.4136344"
+      ]
+    },
+    "success": true
+  },
+  "23 long st, cape town": {
+    "lat": -33.9209929,
+    "lon": 18.420752,
+    "raw": {
+      "place_id": 29647147,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 134294081,
+      "lat": "-33.9209929",
+      "lon": "18.4207520",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.40623184957885505,
+      "addresstype": "road",
+      "name": "Long Street",
+      "display_name": "Long Street, Cape Town Ward 115, Cape Town, City of Cape Town, Western Cape, 8001, South Africa",
+      "boundingbox": [
+        "-33.9213745",
+        "-33.9206110",
+        "18.4203367",
+        "18.4211671"
+      ]
+    },
+    "success": true
+  },
+  "100 adetokunbo ademola st, abuja": {
+    "lat": null,
+    "lon": null,
+    "raw": null,
+    "success": false
+  },
+  "77 ring road, accra": {
+    "lat": 5.5686675,
+    "lon": -0.218876,
+    "raw": {
+      "place_id": 277432754,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 659894148,
+      "lat": "5.5686675",
+      "lon": "-0.2188760",
+      "class": "highway",
+      "type": "primary",
+      "place_rank": 26,
+      "importance": 0.05340297627222092,
+      "addresstype": "road",
+      "name": "Ring Road Central",
+      "display_name": "Ring Road Central, South Industrial Area, Accra, Accra Metropolitan District, Greater Accra Region, Ghana",
+      "boundingbox": [
+        "5.5686170",
+        "5.5687311",
+        "-0.2190836",
+        "-0.2186718"
+      ]
+    },
+    "success": true
+  },
+  "88 cantonments rd, accra": {
+    "lat": 5.5548645,
+    "lon": -0.1833557,
+    "raw": {
+      "place_id": 277704957,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 514290516,
+      "lat": "5.5548645",
+      "lon": "-0.1833557",
+      "class": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.05340297627222092,
+      "addresstype": "road",
+      "name": "Oxford Street",
+      "display_name": "Oxford Street, Ministries, Christiansborg, La, Accra, Korle-Klottey Municipal District, Greater Accra Region, Ghana",
+      "boundingbox": [
+        "5.5540932",
+        "5.5556370",
+        "-0.1836753",
+        "-0.1830389"
+      ]
+    },
+    "success": true
+  },
+  "5 osu oxford st, accra": {
+    "lat": null,
+    "lon": null,
+    "raw": null,
+    "success": false
+  },
+  "18 labone crescent, accra": {
+    "lat": 5.5663691,
+    "lon": -0.1740913,
+    "raw": {
+      "place_id": 275855213,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 298113131,
+      "lat": "5.5663691",
+      "lon": "-0.1740913",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05340297627222092,
+      "addresstype": "road",
+      "name": "Labone Crescent",
+      "display_name": "Labone Crescent, Nyaniba Estates, Labone, La, Accra, La-Dade-Kotopon Municipal District, Greater Accra Region, Ghana",
+      "boundingbox": [
+        "5.5657494",
+        "5.5670262",
+        "-0.1742920",
+        "-0.1740827"
+      ]
+    },
+    "success": true
+  },
+  "22 liberation rd, accra": {
+    "lat": 5.6056366,
+    "lon": -0.1777239,
+    "raw": {
+      "place_id": 278689155,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 510791928,
+      "lat": "5.6056366",
+      "lon": "-0.1777239",
+      "class": "highway",
+      "type": "trunk",
+      "place_rank": 26,
+      "importance": 0.05340297627222092,
+      "addresstype": "road",
+      "name": "Liberation Road",
+      "display_name": "Liberation Road, Airport City, Accra, La-Dade-Kotopon Municipal District, Greater Accra Region, GD-110-6313, Ghana",
+      "boundingbox": [
+        "5.6055105",
+        "5.6057627",
+        "-0.1777540",
+        "-0.1776939"
+      ]
+    },
+    "success": true
+  },
+  "101 oxford rd, manchester": {
+    "lat": 53.470857,
+    "lon": -2.2377704,
+    "raw": {
+      "place_id": 256464035,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1311842160,
+      "lat": "53.4708570",
+      "lon": "-2.2377704",
+      "class": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.05341150606546117,
+      "addresstype": "road",
+      "name": "Oxford Road",
+      "display_name": "Oxford Road, First Street, Chorlton-on-Medlock, Manchester, Greater Manchester, England, M1 7DU, United Kingdom",
+      "boundingbox": [
+        "53.4702985",
+        "53.4714173",
+        "-2.2382695",
+        "-2.2372693"
+      ]
+    },
+    "success": true
+  },
+  "9 fleet st, london": {
+    "lat": 51.5136726,
+    "lon": -0.1118759,
+    "raw": {
+      "place_id": 259528383,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 732968089,
+      "lat": "51.5136726",
+      "lon": "-0.1118759",
+      "class": "highway",
+      "type": "primary",
+      "place_rank": 26,
+      "importance": 0.5151752450856283,
+      "addresstype": "road",
+      "name": "Fleet Street",
+      "display_name": "Fleet Street, West Smithfield, Blackfriars, City of London, Greater London, England, EC4Y 1BD, United Kingdom",
+      "boundingbox": [
+        "51.5136597",
+        "51.5137104",
+        "-0.1119411",
+        "-0.1118241"
+      ]
+    },
+    "success": true
+  },
+  "16 st swithin's ln, london": {
+    "lat": 51.5121432,
+    "lon": -0.088896,
+    "raw": {
+      "place_id": 258998825,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 4211250,
+      "lat": "51.5121432",
+      "lon": "-0.0888960",
+      "class": "highway",
+      "type": "unclassified",
+      "place_rank": 26,
+      "importance": 0.053426412603952055,
+      "addresstype": "road",
+      "name": "St Swithin's Lane",
+      "display_name": "St Swithin's Lane, Bank, City of London, Greater London, England, EC4N 8AL, United Kingdom",
+      "boundingbox": [
+        "51.5114293",
+        "51.5127652",
+        "-0.0893517",
+        "-0.0883246"
+      ]
+    },
+    "success": true
+  },
+  "320 king st, melbourne": {
+    "lat": -37.7731105,
+    "lon": 145.1465581,
+    "raw": {
+      "place_id": 422819119,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1450797429,
+      "lat": "-37.7731105",
+      "lon": "145.1465581",
+      "class": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.053413785763332534,
+      "addresstype": "road",
+      "name": "King Street",
+      "display_name": "King Street, Templestowe, Melbourne, City of Manningham, Victoria, 3106, Australia",
+      "boundingbox": [
+        "-37.7731238",
+        "-37.7731014",
+        "145.1462111",
+        "145.1469050"
+      ]
+    },
+    "success": true
+  },
+  "45 swanston st, melbourne": {
+    "lat": -37.7382338,
+    "lon": 145.0517816,
+    "raw": {
+      "place_id": 391486177,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 12410825917,
+      "lat": "-37.7382338",
+      "lon": "145.0517816",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 8.045242999919154e-05,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "45, Swanston Street, Heidelberg Heights, Melbourne, City of Banyule, Victoria, 3081, Australia",
+      "boundingbox": [
+        "-37.7382838",
+        "-37.7381838",
+        "145.0517316",
+        "145.0518316"
+      ]
+    },
+    "success": true
+  },
+  "88 collins st, melbourne": {
+    "lat": -37.980344,
+    "lon": 145.0628861,
+    "raw": {
+      "place_id": 18466133,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 561522232,
+      "lat": "-37.9803440",
+      "lon": "145.0628861",
+      "class": "building",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 8.045242999919154e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "88, Collins Street, Mentone, Melbourne, City of Kingston, Victoria, 3194, Australia",
+      "boundingbox": [
+        "-37.9804168",
+        "-37.9802711",
+        "145.0628077",
+        "145.0629644"
+      ]
+    },
+    "success": true
+  },
+  "77 bourke st, melbourne": {
+    "lat": -37.7659058,
+    "lon": 145.0977737,
+    "raw": {
+      "place_id": 393156787,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 12418106591,
+      "lat": "-37.7659058",
+      "lon": "145.0977737",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 8.045242999919154e-05,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "77, Bourke Street, Bulleen, Melbourne, City of Manningham, Victoria, 3105, Australia",
+      "boundingbox": [
+        "-37.7659558",
+        "-37.7658558",
+        "145.0977237",
+        "145.0978237"
+      ]
+    },
+    "success": true
+  },
+  "9 elizabeth st, melbourne": {
+    "lat": -38.3834496,
+    "lon": 145.0201917,
+    "raw": {
+      "place_id": 392233210,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 12414998231,
+      "lat": "-38.3834496",
+      "lon": "145.0201917",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 8.045242999919154e-05,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "9, Elizabeth Street, Red Hill South, Red Hill, Melbourne, Shire of Mornington Peninsula, Victoria, 3937, Australia",
+      "boundingbox": [
+        "-38.3834996",
+        "-38.3833996",
+        "145.0201417",
+        "145.0202417"
+      ]
+    },
+    "success": true
+  },
+  "2500 pennsylvania ave nw, washington": {
+    "lat": 38.9034343,
+    "lon": -77.0536277,
+    "raw": {
+      "place_id": 321483856,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 66417578,
+      "lat": "38.9034343",
+      "lon": "-77.0536277",
+      "class": "building",
+      "type": "hotel",
+      "place_rank": 30,
+      "importance": 8.492942702368227e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "2500, Pennsylvania Avenue Northwest, West End, Downtown, Ward 2, Washington, District of Columbia, 20037, United States of America",
+      "boundingbox": [
+        "38.9032513",
+        "38.9036159",
+        "-77.0538841",
+        "-77.0534557"
+      ]
+    },
+    "success": true
+  },
+  "1600 pennsylvania ave nw, washington": {
+    "lat": 38.8976387,
+    "lon": -77.0365528,
+    "raw": {
+      "place_id": 421258057,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 19761182,
+      "lat": "38.8976387",
+      "lon": "-77.0365528",
+      "class": "office",
+      "type": "government",
+      "place_rank": 30,
+      "importance": 0.6863355973183977,
+      "addresstype": "office",
+      "name": "White House",
+      "display_name": "White House, 1600, Pennsylvania Avenue Northwest, Downtown, Ward 2, Washington, District of Columbia, 20500, United States of America",
+      "boundingbox": [
+        "38.8974904",
+        "38.8977959",
+        "-77.0368541",
+        "-77.0362517"
+      ]
+    },
+    "success": true
+  },
+  "11 independence ave se, washington": {
+    "lat": 38.8875095,
+    "lon": -77.0086553,
+    "raw": {
+      "place_id": 368261937,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1321833636,
+      "lat": "38.8875095",
+      "lon": "-77.0086553",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "11, Independence Avenue Southeast, Ward 6, Washington, District of Columbia, 20003, United States of America",
+      "boundingbox": [
+        "38.8874595",
+        "38.8875595",
+        "-77.0087053",
+        "-77.0086053"
+      ]
+    },
+    "success": true
+  },
+  "400 n michigan ave, chicago": {
+    "lat": 41.8895686,
+    "lon": -87.6247284,
+    "raw": {
+      "place_id": 343404359,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 3343161597,
+      "lat": "41.8895686",
+      "lon": "-87.6247284",
+      "class": "shop",
+      "type": "confectionery",
+      "place_rank": 30,
+      "importance": 0.383432079812998,
+      "addresstype": "shop",
+      "name": "Ghirardelli's",
+      "display_name": "Ghirardelli's, 400, North Michigan Avenue, Near North Side, Chicago, North Chicago Township, Cook County, Illinois, 60611, United States of America",
+      "boundingbox": [
+        "41.8895186",
+        "41.8896186",
+        "-87.6247784",
+        "-87.6246784"
+      ]
+    },
+    "success": true
+  },
+  "2200 n lake shore dr, chicago": {
+    "lat": 41.9224488,
+    "lon": -87.6303084,
+    "raw": {
+      "place_id": 359975778,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 24952069,
+      "lat": "41.9224488",
+      "lon": "-87.6303084",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "2200, North Lake Shore Drive, Lincoln Park, Chicago, North Chicago Township, Cook County, Illinois, 60614, United States of America",
+      "boundingbox": [
+        "41.9223988",
+        "41.9224988",
+        "-87.6303584",
+        "-87.6302584"
+      ]
+    },
+    "success": true
+  },
+  "14 wacker pl, chicago": {
+    "lat": 41.8869033,
+    "lon": -87.6260891,
+    "raw": {
+      "place_id": 359982638,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 59678172,
+      "lat": "41.8869033",
+      "lon": "-87.6260891",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "14, East Wacker Place, Theatre District, Loop, Chicago, South Chicago Township, Cook County, Illinois, 60601, United States of America",
+      "boundingbox": [
+        "41.8868533",
+        "41.8869533",
+        "-87.6261391",
+        "-87.6260391"
+      ]
+    },
+    "success": true
+  },
+  "88 avenida atlântica, rio de janeiro": {
+    "lat": -22.9768421,
+    "lon": -43.1881395,
+    "raw": {
+      "place_id": 9712524,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 30969384,
+      "lat": "-22.9768421",
+      "lon": "-43.1881395",
+      "class": "highway",
+      "type": "trunk",
+      "place_rank": 26,
+      "importance": 0.39734859701882214,
+      "addresstype": "road",
+      "name": "Avenida Atlântica",
+      "display_name": "Avenida Atlântica, Bairro Peixoto, Copacabana, Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 22070-001, Brasil",
+      "boundingbox": [
+        "-22.9826816",
+        "-22.9719624",
+        "-43.1896762",
+        "-43.1845398"
+      ]
+    },
+    "success": true
+  },
+  "25 rua haroldo de andrade, rio de janeiro": {
+    "lat": -22.8322638,
+    "lon": -43.367535,
+    "raw": {
+      "place_id": 9636134,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 630088878,
+      "lat": "-22.8322638",
+      "lon": "-43.3675350",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05341485999847406,
+      "addresstype": "road",
+      "name": "Rua João Pinheiro Neto",
+      "display_name": "Rua João Pinheiro Neto, Conjunto Habitacional Haroldo de Andrade, Barros Filho, Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 21515-090, Brasil",
+      "boundingbox": [
+        "-22.8330476",
+        "-22.8314996",
+        "-43.3677095",
+        "-43.3673193"
+      ]
+    },
+    "success": true
+  },
+  "12 rua do ouvidor, rio de janeiro": {
+    "lat": -22.9017256,
+    "lon": -43.1747306,
+    "raw": {
+      "place_id": 9662937,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 3821450598,
+      "lat": "-22.9017256",
+      "lon": "-43.1747306",
+      "class": "amenity",
+      "type": "restaurant",
+      "place_rank": 30,
+      "importance": 8.152666514071897e-05,
+      "addresstype": "amenity",
+      "name": "Porto Novo",
+      "display_name": "Porto Novo, 12, Rua do Ouvidor, Centro, Rio de Janeiro, Região Geográfica Imediata do Rio de Janeiro, Região Metropolitana do Rio de Janeiro, Região Geográfica Intermediária do Rio de Janeiro, Rio de Janeiro, Região Sudeste, 20010-150, Brasil",
+      "boundingbox": [
+        "-22.9017756",
+        "-22.9016756",
+        "-43.1747806",
+        "-43.1746806"
+      ]
+    },
+    "success": true
+  },
+  "9 calle ocho, miami": {
+    "lat": 25.7663234,
+    "lon": -80.1935715,
+    "raw": {
+      "place_id": 383126029,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 190659978,
+      "lat": "25.7663234",
+      "lon": "-80.1935715",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "9, Southwest 8th Street, Miami, Miami-Dade County, Florida, 33135, United States of America",
+      "boundingbox": [
+        "25.7662734",
+        "25.7663734",
+        "-80.1936215",
+        "-80.1935215"
+      ]
+    },
+    "success": true
+  },
+  "55 ocean dr, miami beach": {
+    "lat": 25.7688923,
+    "lon": -80.1331107,
+    "raw": {
+      "place_id": 383224847,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 424828684,
+      "lat": "25.7688923",
+      "lon": "-80.1331107",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "55, Ocean Drive, South Beach, Miami Beach, Miami-Dade County, Florida, 33139, United States of America",
+      "boundingbox": [
+        "25.7688423",
+        "25.7689423",
+        "-80.1331607",
+        "-80.1330607"
+      ]
+    },
+    "success": true
+  },
+  "77 collins ave, miami beach": {
+    "lat": 25.7693508,
+    "lon": -80.1340453,
+    "raw": {
+      "place_id": 383224843,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 11162045,
+      "lat": "25.7693508",
+      "lon": "-80.1340453",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "77, Collins Avenue, South Beach, Miami Beach, Miami-Dade County, Florida, 33139, United States of America",
+      "boundingbox": [
+        "25.7693008",
+        "25.7694008",
+        "-80.1340953",
+        "-80.1339953"
+      ]
+    },
+    "success": true
+  },
+  "200 brickell ave, miami": {
+    "lat": 25.7484879,
+    "lon": -80.2067467,
+    "raw": {
+      "place_id": 283080643,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 607356427,
+      "lat": "25.7484879",
+      "lon": "-80.2067467",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05341087891966122,
+      "addresstype": "road",
+      "name": "Brickell Avenue",
+      "display_name": "Brickell Avenue, Brickell Hammock, Miami, Miami-Dade County, Florida, 33129, United States of America",
+      "boundingbox": [
+        "25.7468186",
+        "25.7500661",
+        "-80.2091826",
+        "-80.2043585"
+      ]
+    },
+    "success": true
+  },
+  "18 avenida insurgentes, mexico city": {
+    "lat": 19.4387424,
+    "lon": -99.155891,
+    "raw": {
+      "place_id": 407248835,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1164589820,
+      "lat": "19.4387424",
+      "lon": "-99.1558910",
+      "class": "building",
+      "type": "apartments",
+      "place_rank": 30,
+      "importance": 9.399328603031995e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "18, Avenida Insurgentes Centro, Tabacalera, Ciudad de México, Cuauhtémoc, Ciudad de México, 06030, México",
+      "boundingbox": [
+        "19.4386643",
+        "19.4388378",
+        "-99.1559558",
+        "-99.1558194"
+      ]
+    },
+    "success": true
+  },
+  "34 paseo de la reforma, mexico city": {
+    "lat": 19.4339772,
+    "lon": -99.1518638,
+    "raw": {
+      "place_id": 406104753,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1224655990,
+      "lat": "19.4339772",
+      "lon": "-99.1518638",
+      "class": "building",
+      "type": "commercial",
+      "place_rank": 30,
+      "importance": 9.399328603031995e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "34, Avenida Paseo de la Reforma, Juárez, Ciudad de México, Cuauhtémoc, Ciudad de México, 06600, México",
+      "boundingbox": [
+        "19.4337952",
+        "19.4341452",
+        "-99.1520140",
+        "-99.1516804"
+      ]
+    },
+    "success": true
+  },
+  "8 calle de donceles, mexico city": {
+    "lat": null,
+    "lon": null,
+    "raw": null,
+    "success": false
+  },
+  "12 avenida da república, são paulo": {
+    "lat": -23.3203557,
+    "lon": -46.2288007,
+    "raw": {
+      "place_id": 7971052,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 432939638,
+      "lat": "-23.3203557",
+      "lon": "-46.2288007",
+      "class": "highway",
+      "type": "primary",
+      "place_rank": 26,
+      "importance": 0.3568593678648804,
+      "addresstype": "road",
+      "name": "Avenida da República",
+      "display_name": "Avenida da República, Treze de Maio, Centro, Santa Isabel, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 07500-000, Brasil",
+      "boundingbox": [
+        "-23.3213981",
+        "-23.3193193",
+        "-46.2295666",
+        "-46.2280261"
+      ]
+    },
+    "success": true
+  },
+  "14 rua haddock lobo, são paulo": {
+    "lat": -23.5572058,
+    "lon": -46.6609395,
+    "raw": {
+      "place_id": 8350334,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1313060332,
+      "lat": "-23.5572058",
+      "lon": "-46.6609395",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05341195162890055,
+      "addresstype": "road",
+      "name": "Rua Haddock Lobo",
+      "display_name": "Rua Haddock Lobo, Consolação, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 01414-000, Brasil",
+      "boundingbox": [
+        "-23.5572500",
+        "-23.5571616",
+        "-46.6609860",
+        "-46.6608930"
+      ]
+    },
+    "success": true
+  },
+  "19 rua vergueiro, são paulo": {
+    "lat": -23.5622325,
+    "lon": -46.6385793,
+    "raw": {
+      "place_id": 402921330,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1025881388,
+      "lat": "-23.5622325",
+      "lon": "-46.6385793",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "19, Rua Vergueiro, Liberdade, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04103-000, Brasil",
+      "boundingbox": [
+        "-23.5622825",
+        "-23.5621825",
+        "-46.6386293",
+        "-46.6385293"
+      ]
+    },
+    "success": true
+  },
+  "6 king st, bristol": {
+    "lat": 51.4625207,
+    "lon": -2.5218999,
+    "raw": {
+      "place_id": 261736339,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1011630934,
+      "lat": "51.4625207",
+      "lon": "-2.5218999",
+      "class": "building",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 7.397650110623357e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "6, King Street, Speedwell, Bristol, City of Bristol, West of England, England, BS15 1DH, United Kingdom",
+      "boundingbox": [
+        "51.4624847",
+        "51.4625591",
+        "-2.5219815",
+        "-2.5217305"
+      ]
+    },
+    "success": true
+  },
+  "44 park st, bristol": {
+    "lat": 51.4543327,
+    "lon": -2.6022738,
+    "raw": {
+      "place_id": 261175455,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 553633782,
+      "lat": "51.4543327",
+      "lon": "-2.6022738",
+      "class": "amenity",
+      "type": "bar",
+      "place_rank": 30,
+      "importance": 7.397650110623357e-05,
+      "addresstype": "amenity",
+      "name": "Antix",
+      "display_name": "Antix, 44, Park Street, Canon's Marsh, City Centre, Bristol, City of Bristol, West of England, England, BS1 5JG, United Kingdom",
+      "boundingbox": [
+        "51.4542776",
+        "51.4543878",
+        "-2.6023675",
+        "-2.6021802"
+      ]
+    },
+    "success": true
+  },
+  "101 park row, leeds": {
+    "lat": 53.7988754,
+    "lon": -1.5470556,
+    "raw": {
+      "place_id": 257726493,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 855576627,
+      "lat": "53.7988754",
+      "lon": "-1.5470556",
+      "class": "highway",
+      "type": "unclassified",
+      "place_rank": 26,
+      "importance": 0.2101211695597586,
+      "addresstype": "road",
+      "name": "Park Row",
+      "display_name": "Park Row, Arena Quarter, Lovell Park, Leeds, West Yorkshire, England, LS1 5QB, United Kingdom",
+      "boundingbox": [
+        "53.7987058",
+        "53.7990449",
+        "-1.5470587",
+        "-1.5470526"
+      ]
+    },
+    "success": true
+  },
+  "18 briggate, leeds": {
+    "lat": 53.7976386,
+    "lon": -1.5422496,
+    "raw": {
+      "place_id": 258108250,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 204539447,
+      "lat": "53.7976386",
+      "lon": "-1.5422496",
+      "class": "highway",
+      "type": "pedestrian",
+      "place_rank": 26,
+      "importance": 0.28497987882587833,
+      "addresstype": "road",
+      "name": "Briggate",
+      "display_name": "Briggate, Warehouse Hill, Arena Quarter, Lovell Park, Leeds, West Yorkshire, England, LS1 6AS, United Kingdom",
+      "boundingbox": [
+        "53.7960924",
+        "53.7991403",
+        "-1.5427129",
+        "-1.5418560"
+      ]
+    },
+    "success": true
+  },
+  "22 queen victoria st, london": {
+    "lat": 51.5124388,
+    "lon": -0.0932614,
+    "raw": {
+      "place_id": 259927153,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 896794994,
+      "lat": "51.5124388",
+      "lon": "-0.0932614",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.3214027699176201,
+      "addresstype": "road",
+      "name": "Queen Victoria Street",
+      "display_name": "Queen Victoria Street, West Smithfield, St Paul's, City of London, Greater London, England, EC4N 4SG, United Kingdom",
+      "boundingbox": [
+        "51.5124282",
+        "51.5124493",
+        "-0.0933110",
+        "-0.0932119"
+      ]
+    },
+    "success": true
+  },
+  "77 strand bridge, dublin": {
+    "lat": 53.356574,
+    "lon": -6.2441916,
+    "raw": {
+      "place_id": 255904307,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 317219095,
+      "lat": "53.3565740",
+      "lon": "-6.2441916",
+      "class": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.3931319319553316,
+      "addresstype": "road",
+      "name": "North Strand Road",
+      "display_name": "North Strand Road, North Dock A Ward 1986, Dublin, County Dublin, Leinster, D03 P043, Éire / Ireland",
+      "boundingbox": [
+        "53.3564514",
+        "53.3566966",
+        "-6.2443719",
+        "-6.2440112"
+      ]
+    },
+    "success": true
+  },
+  "9 o'connell street upper, dublin": {
+    "lat": 53.3504986,
+    "lon": -6.2606891,
+    "raw": {
+      "place_id": 253980592,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 3788404,
+      "lat": "53.3504986",
+      "lon": "-6.2606891",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.05341349279011212,
+      "addresstype": "road",
+      "name": "O'Connell Street Upper",
+      "display_name": "O'Connell Street Upper, North City ED, Dublin, County Dublin, Leinster, D01 TV20, Éire / Ireland",
+      "boundingbox": [
+        "53.3498799",
+        "53.3511172",
+        "-6.2609422",
+        "-6.2604361"
+      ]
+    },
+    "success": true
+  },
+  "5 grafton st, dublin": {
+    "lat": 53.3428866,
+    "lon": -6.2593367,
+    "raw": {
+      "place_id": 255559504,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 271973523,
+      "lat": "53.3428866",
+      "lon": "-6.2593367",
+      "class": "shop",
+      "type": "jewelry",
+      "place_rank": 30,
+      "importance": 8.015945677877496e-05,
+      "addresstype": "shop",
+      "name": "Swarovski",
+      "display_name": "Swarovski, 5, Grafton Street, Mansion House B Ward 1986, Dublin, County Dublin, Leinster, D02 C671, Éire / Ireland",
+      "boundingbox": [
+        "53.3428457",
+        "53.3429246",
+        "-6.2594197",
+        "-6.2592500"
+      ]
+    },
+    "success": true
+  },
+  "16 ranelagh rd, dublin": {
+    "lat": 53.3268921,
+    "lon": -6.2574242,
+    "raw": {
+      "place_id": 255405349,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 44464171,
+      "lat": "53.3268921",
+      "lon": "-6.2574242",
+      "class": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.05341349279011212,
+      "addresstype": "road",
+      "name": "Ranelagh Road",
+      "display_name": "Ranelagh Road, Ranelagh, Rathmines East D Ward 1986, Dublin, County Dublin, Leinster, D06 YT25, Éire / Ireland",
+      "boundingbox": [
+        "53.3266760",
+        "53.3271240",
+        "-6.2581071",
+        "-6.2567358"
+      ]
+    },
+    "success": true
+  },
+  "66 sloane st, london": {
+    "lat": 51.4973124,
+    "lon": -0.1592452,
+    "raw": {
+      "place_id": 259860634,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 8001853296,
+      "lat": "51.4973124",
+      "lon": "-0.1592452",
+      "class": "shop",
+      "type": "estate_agent",
+      "place_rank": 30,
+      "importance": 9.307927061870783e-05,
+      "addresstype": "shop",
+      "name": "Strutt & Parker",
+      "display_name": "Strutt & Parker, 66, Sloane Street, Hans Town, Chelsea, Royal Borough of Kensington and Chelsea, Greater London, England, SW1X 9SH, United Kingdom",
+      "boundingbox": [
+        "51.4972624",
+        "51.4973624",
+        "-0.1592952",
+        "-0.1591952"
+      ]
+    },
+    "success": true
+  },
+  "33 kensington high st, london": {
+    "lat": 51.5022264,
+    "lon": -0.1888199,
+    "raw": {
+      "place_id": 259220724,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 128292719,
+      "lat": "51.5022264",
+      "lon": "-0.1888199",
+      "class": "building",
+      "type": "yes",
+      "place_rank": 30,
+      "importance": 9.307927061870783e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "33, Kensington High Street, South Kensington, Royal Borough of Kensington and Chelsea, Greater London, England, W8 5EA, United Kingdom",
+      "boundingbox": [
+        "51.5021545",
+        "51.5022963",
+        "-0.1888899",
+        "-0.1887531"
+      ]
+    },
+    "success": true
+  },
+  "9 piccadilly, london": {
+    "lat": 51.5081892,
+    "lon": -0.1396461,
+    "raw": {
+      "place_id": 258848856,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 232725809,
+      "lat": "51.5081892",
+      "lon": "-0.1396461",
+      "class": "highway",
+      "type": "primary",
+      "place_rank": 26,
+      "importance": 0.526288161926287,
+      "addresstype": "road",
+      "name": "Piccadilly",
+      "display_name": "Piccadilly, St. James's, Mayfair, City of Westminster, Greater London, England, W1J 0PA, United Kingdom",
+      "boundingbox": [
+        "51.5080704",
+        "51.5082695",
+        "-0.1399854",
+        "-0.1392976"
+      ]
+    },
+    "success": true
+  },
+  "1 the mall, london": {
+    "lat": 51.6258567,
+    "lon": -0.1160746,
+    "raw": {
+      "place_id": 394986553,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1338945646,
+      "lat": "51.6258567",
+      "lon": "-0.1160746",
+      "class": "building",
+      "type": "detached",
+      "place_rank": 30,
+      "importance": 9.307927061870783e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "1, The Mall, Southgate, London Borough of Enfield, Greater London, England, N14 6LR, United Kingdom",
+      "boundingbox": [
+        "51.6257860",
+        "51.6259372",
+        "-0.1161813",
+        "-0.1159679"
+      ]
+    },
+    "success": true
+  },
+  "22 princes dock st, liverpool": {
+    "lat": null,
+    "lon": null,
+    "raw": null,
+    "success": false
+  },
+  "9 castle st, liverpool": {
+    "lat": 53.3925034,
+    "lon": -3.012555,
+    "raw": {
+      "place_id": 255209564,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 254807189,
+      "lat": "53.3925034",
+      "lon": "-3.0125550",
+      "class": "building",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 6.204699778739631e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "9, Castle Street, Lower Tranmere, Birkenhead, Wirral, Liverpool City Region, England, CH41 5ES, United Kingdom",
+      "boundingbox": [
+        "53.3924694",
+        "53.3925784",
+        "-3.0125961",
+        "-3.0125201"
+      ]
+    },
+    "success": true
+  },
+  "120 o'connell st, limerick": {
+    "lat": 52.6629647,
+    "lon": -8.6278959,
+    "raw": {
+      "place_id": 259857117,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 595654003,
+      "lat": "52.6629647",
+      "lon": "-8.6278959",
+      "class": "shop",
+      "type": "books",
+      "place_rank": 30,
+      "importance": 6.589532310974315e-05,
+      "addresstype": "shop",
+      "name": "O' Mahonys",
+      "display_name": "O' Mahonys, 120, O'Connell Street, Shannon A, The Metropolitan District of Limerick City, Limerick, County Limerick, Munster, V94 049K, Éire / Ireland",
+      "boundingbox": [
+        "52.6629147",
+        "52.6630147",
+        "-8.6279459",
+        "-8.6278459"
+      ]
+    },
+    "success": true
+  },
+  "5 sráid uí chonghaile, sligo": {
+    "lat": 54.2677938,
+    "lon": -8.4725763,
+    "raw": {
+      "place_id": 264322941,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 30258291,
+      "lat": "54.2677938",
+      "lon": "-8.4725763",
+      "class": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.05339291294728005,
+      "addresstype": "road",
+      "name": "Connolly Street",
+      "display_name": "Connolly Street, Knocknaganny, Sligo East ED, Sligo Municipal Borough District, County Sligo, Connacht, F91 P89X, Éire / Ireland",
+      "boundingbox": [
+        "54.2672257",
+        "54.2684428",
+        "-8.4730445",
+        "-8.4724827"
+      ]
+    },
+    "success": true
+  },
+  "3 queen st, glasgow": {
+    "lat": 55.8604385,
+    "lon": -4.2517401,
+    "raw": {
+      "place_id": 257442148,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 47168897,
+      "lat": "55.8604385",
+      "lon": "-4.2517401",
+      "class": "highway",
+      "type": "unclassified",
+      "place_rank": 26,
+      "importance": 0.28948114726807017,
+      "addresstype": "road",
+      "name": "Queen Street",
+      "display_name": "Queen Street, Merchant City, Glasgow, Glasgow City, Alba / Scotland, G1 1DR, United Kingdom",
+      "boundingbox": [
+        "55.8601054",
+        "55.8607734",
+        "-4.2518673",
+        "-4.2516177"
+      ]
+    },
+    "success": true
+  },
+  "18 buchanan st, glasgow": {
+    "lat": 55.8596692,
+    "lon": -4.2544372,
+    "raw": {
+      "place_id": 254501777,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 381202305,
+      "lat": "55.8596692",
+      "lon": "-4.2544372",
+      "class": "highway",
+      "type": "pedestrian",
+      "place_rank": 26,
+      "importance": 0.36316812342016486,
+      "addresstype": "road",
+      "name": "Buchanan Street",
+      "display_name": "Buchanan Street, Cowcaddens, Glasgow, Glasgow City, Alba / Scotland, G1 3JL, United Kingdom",
+      "boundingbox": [
+        "55.8581733",
+        "55.8611662",
+        "-4.2549929",
+        "-4.2538845"
+      ]
+    },
+    "success": true
+  },
+  "44 princes st, glasgow": {
+    "lat": 55.9343258,
+    "lon": -4.6901666,
+    "raw": {
+      "place_id": 253815721,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 4738772,
+      "lat": "55.9343258",
+      "lon": "-4.6901666",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05339538033112074,
+      "addresstype": "road",
+      "name": "Princes Street",
+      "display_name": "Princes Street, Devol, Port Glasgow, Inverclyde, Alba / Scotland, PA14 5JH, United Kingdom",
+      "boundingbox": [
+        "55.9334533",
+        "55.9351988",
+        "-4.6912663",
+        "-4.6890666"
+      ]
+    },
+    "success": true
+  },
+  "7 west nile st, glasgow": {
+    "lat": 55.8606619,
+    "lon": -4.2556165,
+    "raw": {
+      "place_id": 253816549,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 6904048815,
+      "lat": "55.8606619",
+      "lon": "-4.2556165",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 7.89066910810562e-05,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "7, West Nile Street, Blythswood Hill, Glasgow, Glasgow City, Alba / Scotland, G1 2PP, United Kingdom",
+      "boundingbox": [
+        "55.8606119",
+        "55.8607119",
+        "-4.2556665",
+        "-4.2555665"
+      ]
+    },
+    "success": true
+  },
+  "99 hope st, glasgow": {
+    "lat": 55.8605422,
+    "lon": -4.2590033,
+    "raw": {
+      "place_id": 254404429,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 2093870551,
+      "lat": "55.8605422",
+      "lon": "-4.2590033",
+      "class": "amenity",
+      "type": "restaurant",
+      "place_rank": 30,
+      "importance": 7.89066910810562e-05,
+      "addresstype": "amenity",
+      "name": "Pizza Crolla",
+      "display_name": "Pizza Crolla, 99, Hope Street, Blythswood Hill, Glasgow, Glasgow City, Alba / Scotland, G2 6LL, United Kingdom",
+      "boundingbox": [
+        "55.8604922",
+        "55.8605922",
+        "-4.2590533",
+        "-4.2589533"
+      ]
+    },
+    "success": true
+  },
+  "200 the strand, london": {
+    "lat": 51.5085987,
+    "lon": -0.1253585,
+    "raw": {
+      "place_id": 258551268,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 431893905,
+      "lat": "51.5085987",
+      "lon": "-0.1253585",
+      "class": "highway",
+      "type": "primary",
+      "place_rank": 26,
+      "importance": 0.5269116322581203,
+      "addresstype": "road",
+      "name": "Strand",
+      "display_name": "Strand, Covent Garden, Victoria, City of Westminster, Greater London, England, WC2R 0QU, United Kingdom",
+      "boundingbox": [
+        "51.5085429",
+        "51.5086545",
+        "-0.1254525",
+        "-0.1252644"
+      ]
+    },
+    "success": true
+  },
+  "77 fleet st, london": {
+    "lat": 51.5138921,
+    "lon": -0.1105219,
+    "raw": {
+      "place_id": 259608370,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 888781925,
+      "lat": "51.5138921",
+      "lon": "-0.1105219",
+      "class": "highway",
+      "type": "primary",
+      "place_rank": 26,
+      "importance": 0.5151752450856283,
+      "addresstype": "road",
+      "name": "Fleet Street",
+      "display_name": "Fleet Street, West Smithfield, Blackfriars, City of London, Greater London, England, EC4A 2AG, United Kingdom",
+      "boundingbox": [
+        "51.5138625",
+        "51.5139188",
+        "-0.1106782",
+        "-0.1103652"
+      ]
+    },
+    "success": true
+  },
+  "3 market st, belfast": {
+    "lat": 44.4260671,
+    "lon": -69.008468,
+    "raw": {
+      "place_id": 366072150,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 11490090,
+      "lat": "44.4260671",
+      "lon": "-69.0084680",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "3, Market Street, Belfast, Waldo County, Maine, 04915, United States of America",
+      "boundingbox": [
+        "44.4260171",
+        "44.4261171",
+        "-69.0085180",
+        "-69.0084180"
+      ]
+    },
+    "success": true
+  },
+  "55 donegall square, belfast": {
+    "lat": 54.5973079,
+    "lon": -5.9296711,
+    "raw": {
+      "place_id": 255296377,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 552191699,
+      "lat": "54.5973079",
+      "lon": "-5.9296711",
+      "class": "highway",
+      "type": "primary",
+      "place_rank": 26,
+      "importance": 0.053408336766613225,
+      "addresstype": "road",
+      "name": "Donegall Square North",
+      "display_name": "Donegall Square North, Linen Quarter, Markets, Belfast, Belfast City District, County Antrim, Northern Ireland / Tuaisceart Éireann, BT1 5GA, United Kingdom",
+      "boundingbox": [
+        "54.5972917",
+        "54.5973242",
+        "-5.9300213",
+        "-5.9293209"
+      ]
+    },
+    "success": true
+  },
+  "12 botanic ave, belfast": {
+    "lat": 54.589214,
+    "lon": -5.9333175,
+    "raw": {
+      "place_id": 255190672,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 611157899,
+      "lat": "54.5892140",
+      "lon": "-5.9333175",
+      "class": "shop",
+      "type": "charity",
+      "place_rank": 30,
+      "importance": 7.500343327988125e-05,
+      "addresstype": "shop",
+      "name": "Save the Children",
+      "display_name": "Save the Children, 12, Botanic Avenue, Botanic, Linen Quarter, Queen's Quarter, Belfast, Belfast City District, County Antrim, Northern Ireland / Tuaisceart Éireann, BT7 1JJ, United Kingdom",
+      "boundingbox": [
+        "54.5891829",
+        "54.5892605",
+        "-5.9333985",
+        "-5.9331943"
+      ]
+    },
+    "success": true
+  },
+  "9 great victoria st, belfast": {
+    "lat": 54.5910333,
+    "lon": -5.9341423,
+    "raw": {
+      "place_id": 254312407,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 561353889,
+      "lat": "54.5910333",
+      "lon": "-5.9341423",
+      "class": "highway",
+      "type": "primary",
+      "place_rank": 26,
+      "importance": 0.053408336766613225,
+      "addresstype": "road",
+      "name": "Great Victoria Street",
+      "display_name": "Great Victoria Street, Botanic, Linen Quarter, Sandy Row, Belfast, Belfast City District, County Antrim, Northern Ireland / Tuaisceart Éireann, BT2 7BE, United Kingdom",
+      "boundingbox": [
+        "54.5900584",
+        "54.5920099",
+        "-5.9341930",
+        "-5.9341349"
+      ]
+    },
+    "success": true
+  },
+  "8 waring st, belfast": {
+    "lat": 54.6006579,
+    "lon": -5.9280786,
+    "raw": {
+      "place_id": 254887973,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 653638466,
+      "lat": "54.6006579",
+      "lon": "-5.9280786",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.053408336766613225,
+      "addresstype": "road",
+      "name": "Waring Street",
+      "display_name": "Waring Street, Historic Winch, Cathedral Quarter, Markets, Belfast, Belfast City District, County Antrim, Northern Ireland / Tuaisceart Éireann, BT1 1LU, United Kingdom",
+      "boundingbox": [
+        "54.6006432",
+        "54.6006767",
+        "-5.9281534",
+        "-5.9280047"
+      ]
+    },
+    "success": true
+  },
+  "10 rua xv de novembro, curitiba": {
+    "lat": -25.4305491,
+    "lon": -49.2699936,
+    "raw": {
+      "place_id": 6239708,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 695745950,
+      "lat": "-25.4305491",
+      "lon": "-49.2699936",
+      "class": "highway",
+      "type": "pedestrian",
+      "place_rank": 26,
+      "importance": 0.21490054107343942,
+      "addresstype": "road",
+      "name": "Rua XV de Novembro",
+      "display_name": "Rua XV de Novembro, Centro, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80020-320, Brasil",
+      "boundingbox": [
+        "-25.4313955",
+        "-25.4297027",
+        "-49.2721973",
+        "-49.2677899"
+      ]
+    },
+    "success": true
+  },
+  "22 av. sete de setembro, curitiba": {
+    "lat": -25.4485647,
+    "lon": -49.2951637,
+    "raw": {
+      "place_id": 6192768,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1070035666,
+      "lat": "-25.4485647",
+      "lon": "-49.2951637",
+      "class": "highway",
+      "type": "primary",
+      "place_rank": 26,
+      "importance": 0.05340385519188216,
+      "addresstype": "road",
+      "name": "Avenida Sete de Setembro",
+      "display_name": "Avenida Sete de Setembro, Seminário, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80240-021, Brasil",
+      "boundingbox": [
+        "-25.4486910",
+        "-25.4484384",
+        "-49.2954929",
+        "-49.2948345"
+      ]
+    },
+    "success": true
+  },
+  "3 rua xv, florianópolis": {
+    "lat": -27.5075896,
+    "lon": -48.5198277,
+    "raw": {
+      "place_id": 6958001,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 56091730,
+      "lat": "-27.5075896",
+      "lon": "-48.5198277",
+      "class": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.05339985580224304,
+      "addresstype": "road",
+      "name": "Rua 15 de Novembro",
+      "display_name": "Rua 15 de Novembro, Santo Antônio de Lisboa, Florianópolis, Região Geográfica Imediata de Florianópolis, Região Geográfica Intermediária de Florianópolis, Santa Catarina, Região Sul, 88050-400, Brasil",
+      "boundingbox": [
+        "-27.5084109",
+        "-27.5067946",
+        "-48.5206448",
+        "-48.5190350"
+      ]
+    },
+    "success": true
+  },
+  "44 rua das palmeiras, salvador": {
+    "lat": -12.8885542,
+    "lon": -38.4054341,
+    "raw": {
+      "place_id": 14742220,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 120680496,
+      "lat": "-12.8885542",
+      "lon": "-38.4054341",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05340149767299913,
+      "addresstype": "road",
+      "name": "Rua das Palmeiras",
+      "display_name": "Rua das Palmeiras, Vila Nova Independência, Cajazeiras, Salvador, Região Geográfica Imediata de Salvador, Região Metropolitana de Salvador, Região Geográfica Intermediária de Salvador, Bahia, Região Nordeste, 41339-230, Brasil",
+      "boundingbox": [
+        "-12.8889983",
+        "-12.8885218",
+        "-38.4059367",
+        "-38.4047203"
+      ]
+    },
+    "success": true
+  },
+  "12 calle uruguay, montevideo": {
+    "lat": null,
+    "lon": null,
+    "raw": null,
+    "success": false
+  },
+  "8 calle sarandí, montevideo": {
+    "lat": -34.8461176,
+    "lon": -56.2557893,
+    "raw": {
+      "place_id": 16789539,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 7185632301,
+      "lat": "-34.8461176",
+      "lon": "-56.2557893",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 7.612039368271942e-05,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "8, Calle 5, Nuevo Sarandí, Nuevo París, Montevideo, 12600, Uruguay",
+      "boundingbox": [
+        "-34.8461676",
+        "-34.8460676",
+        "-56.2558393",
+        "-56.2557393"
+      ]
+    },
+    "success": true
+  },
+  "5 calle 18, montevideo": {
+    "lat": -34.8268765,
+    "lon": -56.2536167,
+    "raw": {
+      "place_id": 16745891,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 78105565,
+      "lat": "-34.8268765",
+      "lon": "-56.2536167",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05340945372701606,
+      "addresstype": "road",
+      "name": "Calle 18",
+      "display_name": "Calle 18, Nuevo París, Montevideo, 12600, Uruguay",
+      "boundingbox": [
+        "-34.8275119",
+        "-34.8262412",
+        "-56.2542934",
+        "-56.2529400"
+      ]
+    },
+    "success": true
+  },
+  "9 avenida de mayo, buenos aires": {
+    "lat": -34.6410706,
+    "lon": -58.5658879,
+    "raw": {
+      "place_id": 18779212,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 328504825,
+      "lat": "-34.6410706",
+      "lon": "-58.5658879",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "9, Avenida de Mayo, Ramos Mejía Centro, Ramos Mejía, Partido de La Matanza, Buenos Aires, B1704ETD, Argentina",
+      "boundingbox": [
+        "-34.6411206",
+        "-34.6410206",
+        "-58.5659379",
+        "-58.5658379"
+      ]
+    },
+    "success": true
+  },
+  "77 calle florida, buenos aires": {
+    "lat": 9.065409,
+    "lon": -79.4270801,
+    "raw": {
+      "place_id": 281616582,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 387232288,
+      "lat": "9.0654090",
+      "lon": "-79.4270801",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05340152513923854,
+      "addresstype": "road",
+      "name": "Calle La Florida",
+      "display_name": "Calle La Florida, Buenos Aires, Pedregal, Distrito de Panamá, Provincia de Panamá, Panamá",
+      "boundingbox": [
+        "9.0614954",
+        "9.0694239",
+        "-79.4293097",
+        "-79.4246010"
+      ]
+    },
+    "success": true
+  },
+  "14 calle sarmiento, buenos aires": {
+    "lat": -38.7172167,
+    "lon": -62.2671263,
+    "raw": {
+      "place_id": 22662276,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 266590612,
+      "lat": "-38.7172167",
+      "lon": "-62.2671263",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "14, Sarmiento, Centro Norte, Bahía Blanca, Cuartel I, Partido de Bahía Blanca, Buenos Aires, 8000, Argentina",
+      "boundingbox": [
+        "-38.7172667",
+        "-38.7171667",
+        "-62.2671763",
+        "-62.2670763"
+      ]
+    },
+    "success": true
+  },
+  "18 avenida 9 de julio, buenos aires": {
+    "lat": -36.2295237,
+    "lon": -61.1002269,
+    "raw": {
+      "place_id": 21847144,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1196405345,
+      "lat": "-36.2295237",
+      "lon": "-61.1002269",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "18, Avenida 9 de Julio, San Carlos de Bolívar, Partido de Bolívar, Buenos Aires, B6550CGG, Argentina",
+      "boundingbox": [
+        "-36.2295737",
+        "-36.2294737",
+        "-61.1002769",
+        "-61.1001769"
+      ]
+    },
+    "success": true
+  },
+  "25 calle defensa, buenos aires": {
+    "lat": -34.7986993,
+    "lon": -58.2815625,
+    "raw": {
+      "place_id": 16572255,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 50880437,
+      "lat": "-34.7986993",
+      "lon": "-58.2815625",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05338504234378573,
+      "addresstype": "road",
+      "name": "Defensa de Buenos Aires",
+      "display_name": "Defensa de Buenos Aires, Centro, San Juan Bautista, Partido de Florencio Varela, Buenos Aires, B1888, Argentina",
+      "boundingbox": [
+        "-34.7988374",
+        "-34.7985473",
+        "-58.2842985",
+        "-58.2788267"
+      ]
+    },
+    "success": true
+  },
+  "44 calle corrientes, buenos aires": {
+    "lat": -34.9160817,
+    "lon": -57.9571429,
+    "raw": {
+      "place_id": 16597352,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 285554923,
+      "lat": "-34.9160817",
+      "lon": "-57.9571429",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05339999923704887,
+      "addresstype": "road",
+      "name": "Calle 46",
+      "display_name": "Calle 46, La Plata, Partido de La Plata, Buenos Aires, B1900AHF, Argentina",
+      "boundingbox": [
+        "-34.9179268",
+        "-34.9142417",
+        "-57.9591668",
+        "-57.9551144"
+      ]
+    },
+    "success": true
+  },
+  "55 calle tucumán, buenos aires": {
+    "lat": -34.7980639,
+    "lon": -58.2909723,
+    "raw": {
+      "place_id": 16564498,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 50884688,
+      "lat": "-34.7980639",
+      "lon": "-58.2909723",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05338504234378573,
+      "addresstype": "road",
+      "name": "Congreso de Tucumán",
+      "display_name": "Congreso de Tucumán, San Nicolás, San Juan Bautista, Partido de Florencio Varela, Buenos Aires, B1888, Argentina",
+      "boundingbox": [
+        "-34.8010921",
+        "-34.7950337",
+        "-58.2933018",
+        "-58.2886402"
+      ]
+    },
+    "success": true
+  },
+  "12 calle suipacha, buenos aires": {
+    "lat": -34.8272689,
+    "lon": -58.243366,
+    "raw": {
+      "place_id": 16609601,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 50811747,
+      "lat": "-34.8272689",
+      "lon": "-58.2433660",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05337333409628439,
+      "addresstype": "road",
+      "name": "Suipacha",
+      "display_name": "Suipacha, Santa Ana, Bosques, Partido de Florencio Varela, Buenos Aires, 1889, Argentina",
+      "boundingbox": [
+        "-34.8280041",
+        "-34.8265457",
+        "-58.2448442",
+        "-58.2418819"
+      ]
+    },
+    "success": true
+  },
+  "9 calle florida, buenos aires": {
+    "lat": 42.0031425,
+    "lon": -5.6810928,
+    "raw": {
+      "place_id": 270690134,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 7153799,
+      "lat": "42.0031425",
+      "lon": "-5.6810928",
+      "class": "building",
+      "type": "apartments",
+      "place_rank": 30,
+      "importance": 6.135118638890696e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "9, Ronda de la Florida, Las Eras, Benavente, Zamora, Castilla y León, 49600, España",
+      "boundingbox": [
+        "42.0030390",
+        "42.0032514",
+        "-5.6813704",
+        "-5.6809683"
+      ]
+    },
+    "success": true
+  },
+  "1 paseo colon, buenos aires": {
+    "lat": -34.9097897,
+    "lon": -60.7577153,
+    "raw": {
+      "place_id": 15669686,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 138008072,
+      "lat": "-34.9097897",
+      "lon": "-60.7577153",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.053363870450904065,
+      "addresstype": "road",
+      "name": "Paseo Colón",
+      "display_name": "Paseo Colón, Eduardo O'Brien, Cuartel O´Brien, Partido de Bragado, Buenos Aires, B6646ALF, Argentina",
+      "boundingbox": [
+        "-34.9100931",
+        "-34.9094825",
+        "-60.7603252",
+        "-60.7551050"
+      ]
+    },
+    "success": true
+  },
+  "77 avenida alvear, buenos aires": {
+    "lat": -37.3348005,
+    "lon": -59.132401,
+    "raw": {
+      "place_id": 21214572,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 394494263,
+      "lat": "-37.3348005",
+      "lon": "-59.1324010",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "77, Avenida Alvear, Uncas, Tandil, Partido de Tandil, Buenos Aires, B7000, Argentina",
+      "boundingbox": [
+        "-37.3348505",
+        "-37.3347505",
+        "-59.1324510",
+        "-59.1323510"
+      ]
+    },
+    "success": true
+  },
+  "18 calle reconquista, buenos aires": {
+    "lat": -37.9790922,
+    "lon": -61.3791944,
+    "raw": {
+      "place_id": 22192539,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1085929758,
+      "lat": "-37.9790922",
+      "lon": "-61.3791944",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "18, Reconquista, Coronel Pringles, Cuartel XIII, Partido de Coronel Pringles, Buenos Aires, 7530, Argentina",
+      "boundingbox": [
+        "-37.9791422",
+        "-37.9790422",
+        "-61.3792444",
+        "-61.3791444"
+      ]
+    },
+    "success": true
+  },
+  "99 av. corrientes, buenos aires": {
+    "lat": -34.6027944,
+    "lon": -58.3689089,
+    "raw": {
+      "place_id": 16114139,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 2227550818,
+      "lat": "-34.6027944",
+      "lon": "-58.3689089",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 8.279926756690345e-05,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "99, Avenida Corrientes, Microcentro, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1043AAA, Argentina",
+      "boundingbox": [
+        "-34.6028444",
+        "-34.6027444",
+        "-58.3689589",
+        "-58.3688589"
+      ]
+    },
+    "success": true
+  },
+  "7 calle rivadavia, buenos aires": {
+    "lat": -37.9913538,
+    "lon": -61.3640792,
+    "raw": {
+      "place_id": 22276373,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 562064891,
+      "lat": "-37.9913538",
+      "lon": "-61.3640792",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "7, Rivadavia, Barrio Illia, Coronel Pringles, Cuartel XIII, Partido de Coronel Pringles, Buenos Aires, 7530, Argentina",
+      "boundingbox": [
+        "-37.9914038",
+        "-37.9913038",
+        "-61.3641292",
+        "-61.3640292"
+      ]
+    },
+    "success": true
+  },
+  "13 calle lavalle, buenos aires": {
+    "lat": -33.8929747,
+    "lon": -60.548318,
+    "raw": {
+      "place_id": 13935826,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 894647767,
+      "lat": "-33.8929747",
+      "lon": "-60.5483180",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "13, María González de Lavalle (6), Viajantes, Pergamino, Partido de Pergamino, Buenos Aires, 2700, Argentina",
+      "boundingbox": [
+        "-33.8930247",
+        "-33.8929247",
+        "-60.5483680",
+        "-60.5482680"
+      ]
+    },
+    "success": true
+  },
+  "30 avenida libertador, buenos aires": {
+    "lat": -34.5936011,
+    "lon": -58.3745127,
+    "raw": {
+      "place_id": 17286073,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 334896911,
+      "lat": "-34.5936011",
+      "lon": "-58.3745127",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "30, Avenida Del Libertador, Retiro, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1054AAQ, Argentina",
+      "boundingbox": [
+        "-34.5936511",
+        "-34.5935511",
+        "-58.3745627",
+        "-58.3744627"
+      ]
+    },
+    "success": true
+  },
+  "21 avenida córdoba, buenos aires": {
+    "lat": -34.5994309,
+    "lon": -58.4018018,
+    "raw": {
+      "place_id": 16292671,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 504660430,
+      "lat": "-34.5994309",
+      "lon": "-58.4018018",
+      "class": "highway",
+      "type": "primary",
+      "place_rank": 26,
+      "importance": 0.053416132600900244,
+      "addresstype": "road",
+      "name": "Avenida Córdoba",
+      "display_name": "Avenida Córdoba, Recoleta, Buenos Aires, Comuna 2, Ciudad Autónoma de Buenos Aires, C1120AAT, Argentina",
+      "boundingbox": [
+        "-34.5995115",
+        "-34.5991633",
+        "-58.4024671",
+        "-58.4010821"
+      ]
+    },
+    "success": true
+  },
+  "9 calle pichincha, quito": {
+    "lat": -0.3359617,
+    "lon": -78.5670901,
+    "raw": {
+      "place_id": 2678191,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 26481858,
+      "lat": "-0.3359617",
+      "lon": "-78.5670901",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05340569390402072,
+      "addresstype": "road",
+      "name": "Calle",
+      "display_name": "Calle, Sierra Hermosa, Paquisha, Guamaní, Quito, Pichincha, 170705, Ecuador",
+      "boundingbox": [
+        "-0.3362337",
+        "-0.3356852",
+        "-78.5675447",
+        "-78.5666381"
+      ]
+    },
+    "success": true
+  },
+  "11 calle la ronda, quito": {
+    "lat": -0.1133416,
+    "lon": -78.4169087,
+    "raw": {
+      "place_id": 2668889,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 723584437,
+      "lat": "-0.1133416",
+      "lon": "-78.4169087",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05340569390402072,
+      "addresstype": "road",
+      "name": "La Ronda",
+      "display_name": "La Ronda, La Capilla, Calderón, Calderon, Quito, Pichincha, 170201, Ecuador",
+      "boundingbox": [
+        "-0.1138938",
+        "-0.1129668",
+        "-78.4183145",
+        "-78.4152169"
+      ]
+    },
+    "success": true
+  },
+  "18 avenida amazonas, quito": {
+    "lat": -0.1454915,
+    "lon": -78.4915749,
+    "raw": {
+      "place_id": 2787869,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 435670400,
+      "lat": "-0.1454915",
+      "lon": "-78.4915749",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05340569390402072,
+      "addresstype": "road",
+      "name": "Avenida Amazonas",
+      "display_name": "Avenida Amazonas, El Carmen, Kennedy, Quito, Pichincha, 170512, Ecuador",
+      "boundingbox": [
+        "-0.1455384",
+        "-0.1454445",
+        "-78.4916070",
+        "-78.4915427"
+      ]
+    },
+    "success": true
+  },
+  "3 calle guayaquil, quito": {
+    "lat": -0.2127189,
+    "lon": -78.4067172,
+    "raw": {
+      "place_id": 2618390,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 422855328,
+      "lat": "-0.2127189",
+      "lon": "-78.4067172",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05340569390402072,
+      "addresstype": "road",
+      "name": "Guayaquil",
+      "display_name": "Guayaquil, Tumbaco Central, Tumbaco, Quito, Pichincha, 170181, Ecuador",
+      "boundingbox": [
+        "-0.2129034",
+        "-0.2125345",
+        "-78.4070936",
+        "-78.4063409"
+      ]
+    },
+    "success": true
+  },
+  "77 calle sucre, quito": {
+    "lat": -0.216795,
+    "lon": -78.5089031,
+    "raw": {
+      "place_id": 2766396,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 424998884,
+      "lat": "-0.2167950",
+      "lon": "-78.5089031",
+      "class": "building",
+      "type": "residential",
+      "place_rank": 30,
+      "importance": 7.236057068737342e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "N9-77, Venezuela, San Juan, Quito, Pichincha, 170130, Ecuador",
+      "boundingbox": [
+        "-0.2169592",
+        "-0.2166388",
+        "-78.5090657",
+        "-78.5087929"
+      ]
+    },
+    "success": true
+  },
+  "2 invalid sample addr": {
+    "lat": null,
+    "lon": null,
+    "raw": null,
+    "success": false
+  },
+  "15 no city provided st": {
+    "lat": null,
+    "lon": null,
+    "raw": null,
+    "success": false
+  },
+  "9999 some random road apt 999": {
+    "lat": null,
+    "lon": null,
+    "raw": null,
+    "success": false
+  },
+  "po box 12345, nowhere": {
+    "lat": null,
+    "lon": null,
+    "raw": null,
+    "success": false
+  },
+  "apartment 7, 12 imaginary ln": {
+    "lat": null,
+    "lon": null,
+    "raw": null,
+    "success": false
+  },
+  "flat 2b, 5 fictional rd": {
+    "lat": null,
+    "lon": null,
+    "raw": null,
+    "success": false
+  },
+  "building x, unknown street": {
+    "lat": null,
+    "lon": null,
+    "raw": null,
+    "success": false
+  },
+  "unit 101, 2000 sunset blvd": {
+    "lat": null,
+    "lon": null,
+    "raw": null,
+    "success": false
+  },
+  "3500 barrow st, greenwich village, ny": {
+    "lat": 40.7326062,
+    "lon": -74.0027887,
+    "raw": {
+      "place_id": 326373566,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 46610724,
+      "lat": "40.7326062",
+      "lon": "-74.0027887",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05342509269855799,
+      "addresstype": "road",
+      "name": "Barrow Street",
+      "display_name": "Barrow Street, West Village, Manhattan, New York County, City of New York, New York, 10014, United States of America",
+      "boundingbox": [
+        "40.7324303",
+        "40.7328410",
+        "-74.0034387",
+        "-74.0021240"
+      ]
+    },
+    "success": true
+  },
+  "125 canal st, new york": {
+    "lat": 40.7160874,
+    "lon": -73.9951991,
+    "raw": {
+      "place_id": 331510665,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 248771429,
+      "lat": "40.7160874",
+      "lon": "-73.9951991",
+      "class": "building",
+      "type": "yes",
+      "place_rank": 30,
+      "importance": 9.175936522464359e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "125, Canal Street, Two Bridges, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10002, United States of America",
+      "boundingbox": [
+        "40.7159879",
+        "40.7161869",
+        "-73.9953552",
+        "-73.9950430"
+      ]
+    },
+    "success": true
+  },
+  "678 broadway, new york": {
+    "lat": 40.727428,
+    "lon": -73.9946387,
+    "raw": {
+      "place_id": 331513995,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 247842933,
+      "lat": "40.7274280",
+      "lon": "-73.9946387",
+      "class": "building",
+      "type": "apartments",
+      "place_rank": 30,
+      "importance": 9.175936522464359e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "678, Broadway, East Village, NoHo, Manhattan, New York County, City of New York, New York, 10012, United States of America",
+      "boundingbox": [
+        "40.7272970",
+        "40.7275588",
+        "-73.9948652",
+        "-73.9944122"
+      ]
+    },
+    "success": true
+  },
+  "201 w 14th st, new york": {
+    "lat": 40.7387846,
+    "lon": -73.9997723,
+    "raw": {
+      "place_id": 332096846,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 2702887561,
+      "lat": "40.7387846",
+      "lon": "-73.9997723",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.175936522464359e-05,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "201, West 14th Street, Manhattan Community Board 4, Manhattan, New York County, City of New York, New York, 10011, United States of America",
+      "boundingbox": [
+        "40.7387346",
+        "40.7388346",
+        "-73.9998223",
+        "-73.9997223"
+      ]
+    },
+    "success": true
+  },
+  "50 n long st, columbus": {
+    "lat": 39.9685485,
+    "lon": -82.9696362,
+    "raw": {
+      "place_id": 314736069,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 592554647,
+      "lat": "39.9685485",
+      "lon": "-82.9696362",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.05340627832455936,
+      "addresstype": "road",
+      "name": "East Long Street",
+      "display_name": "East Long Street, Eastwood Heights, Near East Side, Columbus, Franklin County, Ohio, 43203, United States of America",
+      "boundingbox": [
+        "39.9685109",
+        "39.9685865",
+        "-82.9699795",
+        "-82.9692930"
+      ]
+    },
+    "success": true
+  },
+  "12 s high st, columbus": {
+    "lat": 39.961919,
+    "lon": -83.0004729,
+    "raw": {
+      "place_id": 367943079,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 42295733,
+      "lat": "39.9619190",
+      "lon": "-83.0004729",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "12, South High Street, High Street Corridor, Columbus, Franklin County, Ohio, 43215, United States of America",
+      "boundingbox": [
+        "39.9618690",
+        "39.9619690",
+        "-83.0005229",
+        "-83.0004229"
+      ]
+    },
+    "success": true
+  },
+  "88 broad st, columbus": {
+    "lat": 39.962937,
+    "lon": -82.9983199,
+    "raw": {
+      "place_id": 314339192,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 374900112,
+      "lat": "39.9629370",
+      "lon": "-82.9983199",
+      "class": "building",
+      "type": "commercial",
+      "place_rank": 30,
+      "importance": 7.29449912260169e-05,
+      "addresstype": "building",
+      "name": "Key Bank Building",
+      "display_name": "Key Bank Building, 88, East Broad Street, Downtown, Columbus, Franklin County, Ohio, 43215, United States of America",
+      "boundingbox": [
+        "39.9626537",
+        "39.9631920",
+        "-82.9986984",
+        "-82.9981581"
+      ]
+    },
+    "success": true
+  },
+  "9 w main st, columbus": {
+    "lat": 39.9561943,
+    "lon": -82.9997316,
+    "raw": {
+      "place_id": 367965275,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 568679664,
+      "lat": "39.9561943",
+      "lon": "-82.9997316",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "9, West Main Street, River South, Columbus, Franklin County, Ohio, 43215, United States of America",
+      "boundingbox": [
+        "39.9561443",
+        "39.9562443",
+        "-82.9997816",
+        "-82.9996816"
+      ]
+    },
+    "success": true
+  },
+  "101 state st, albany": {
+    "lat": 42.6500382,
+    "lon": -73.7535059,
+    "raw": {
+      "place_id": 375817343,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 33904608,
+      "lat": "42.6500382",
+      "lon": "-73.7535059",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "101, State Street, Downtown, City of Albany, Albany County, New York, 12207, United States of America",
+      "boundingbox": [
+        "42.6499882",
+        "42.6500882",
+        "-73.7535559",
+        "-73.7534559"
+      ]
+    },
+    "success": true
+  },
+  "22 washington ave, albany": {
+    "lat": 42.6518853,
+    "lon": -73.7551933,
+    "raw": {
+      "place_id": 375835478,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 5587241,
+      "lat": "42.6518853",
+      "lon": "-73.7551933",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "22, Washington Avenue, Sheridan Hollow, City of Albany, Albany County, New York, 12210, United States of America",
+      "boundingbox": [
+        "42.6518353",
+        "42.6519353",
+        "-73.7552433",
+        "-73.7551433"
+      ]
+    },
+    "success": true
+  },
+  "7 pearl st, albany": {
+    "lat": 38.2834758,
+    "lon": -85.8218335,
+    "raw": {
+      "place_id": 356118021,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 17332513,
+      "lat": "38.2834758",
+      "lon": "-85.8218335",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "7, Pearl Street, New Albany Downtown Historic District, New Albany, Floyd County, Indiana, 47150, United States of America",
+      "boundingbox": [
+        "38.2834258",
+        "38.2835258",
+        "-85.8218835",
+        "-85.8217835"
+      ]
+    },
+    "success": true
+  },
+  "18 dutch st, albany": {
+    "lat": null,
+    "lon": null,
+    "raw": null,
+    "success": false
+  },
+  "6 market sq, providence": {
+    "lat": null,
+    "lon": null,
+    "raw": null,
+    "success": false
+  },
+  "44 weybosset st, providence": {
+    "lat": 41.8249954,
+    "lon": -71.4097755,
+    "raw": {
+      "place_id": 372800298,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 19396151,
+      "lat": "41.8249954",
+      "lon": "-71.4097755",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "44, Weybosset Street, Downtown, Providence, Providence County, Rhode Island, 02903, United States of America",
+      "boundingbox": [
+        "41.8249454",
+        "41.8250454",
+        "-71.4098255",
+        "-71.4097255"
+      ]
+    },
+    "success": true
+  },
+  "77 westminster st, providence": {
+    "lat": 41.8246939,
+    "lon": -71.410402,
+    "raw": {
+      "place_id": 372800999,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 90091975,
+      "lat": "41.8246939",
+      "lon": "-71.4104020",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "77, Westminster Street, Downtown, Providence, Providence County, Rhode Island, 02903, United States of America",
+      "boundingbox": [
+        "41.8246439",
+        "41.8247439",
+        "-71.4104520",
+        "-71.4103520"
+      ]
+    },
+    "success": true
+  },
+  "3 thayer st, providence": {
+    "lat": 41.8206357,
+    "lon": -71.399726,
+    "raw": {
+      "place_id": 372813001,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 90091977,
+      "lat": "41.8206357",
+      "lon": "-71.3997260",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "3, Thayer Street, Fox Point, Providence, Providence County, Rhode Island, 02906, United States of America",
+      "boundingbox": [
+        "41.8205857",
+        "41.8206857",
+        "-71.3997760",
+        "-71.3996760"
+      ]
+    },
+    "success": true
+  },
+  "15 hope st, providence": {
+    "lat": 41.8190668,
+    "lon": -71.3950949,
+    "raw": {
+      "place_id": 372818880,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 19396244,
+      "lat": "41.8190668",
+      "lon": "-71.3950949",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "15, Hope Street, Fox Point, Providence, Providence County, Rhode Island, 02903, United States of America",
+      "boundingbox": [
+        "41.8190168",
+        "41.8191168",
+        "-71.3951449",
+        "-71.3950449"
+      ]
+    },
+    "success": true
+  },
+  "9 pine st, boston": {
+    "lat": 42.2536202,
+    "lon": -71.1232668,
+    "raw": {
+      "place_id": 384207540,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 8641352,
+      "lat": "42.2536202",
+      "lon": "-71.1232668",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "9, Pine Street, Fairmount, Hyde Park, Boston, Suffolk County, Massachusetts, 02136, United States of America",
+      "boundingbox": [
+        "42.2535702",
+        "42.2536702",
+        "-71.1233168",
+        "-71.1232168"
+      ]
+    },
+    "success": true
+  },
+  "20 state st, boston": {
+    "lat": 42.3589743,
+    "lon": -71.0575087,
+    "raw": {
+      "place_id": 384208679,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 846628946,
+      "lat": "42.3589743",
+      "lon": "-71.0575087",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "20, State Street, Financial District, Downtown Boston, Boston, Suffolk County, Massachusetts, 02109, United States of America",
+      "boundingbox": [
+        "42.3589243",
+        "42.3590243",
+        "-71.0575587",
+        "-71.0574587"
+      ]
+    },
+    "success": true
+  },
+  "100 summer st, boston": {
+    "lat": 42.3538426,
+    "lon": -71.0574171,
+    "raw": {
+      "place_id": 335372722,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 29650695,
+      "lat": "42.3538426",
+      "lon": "-71.0574171",
+      "class": "building",
+      "type": "commercial",
+      "place_rank": 30,
+      "importance": 0.26921459358551875,
+      "addresstype": "building",
+      "name": "100 Summer Street",
+      "display_name": "100 Summer Street, 100, Summer Street, Church Green, Downtown Boston, Boston, Suffolk County, Massachusetts, 02110, United States of America",
+      "boundingbox": [
+        "42.3534197",
+        "42.3542610",
+        "-71.0578668",
+        "-71.0569053"
+      ]
+    },
+    "success": true
+  },
+  "44 court st, boston": {
+    "lat": 42.3591549,
+    "lon": -71.05937,
+    "raw": {
+      "place_id": 384195430,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 826634235,
+      "lat": "42.3591549",
+      "lon": "-71.0593700",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 9.99999999995449e-06,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "44, Court Street, Downtown Crossing, Downtown Boston, Boston, Suffolk County, Massachusetts, 02108, United States of America",
+      "boundingbox": [
+        "42.3591049",
+        "42.3592049",
+        "-71.0594200",
+        "-71.0593200"
+      ]
+    },
+    "success": true
+  },
+  "88 beacon st, boston": {
+    "lat": 42.3558666,
+    "lon": -71.0717748,
+    "raw": {
+      "place_id": 335306954,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 405911799,
+      "lat": "42.3558666",
+      "lon": "-71.0717748",
+      "class": "building",
+      "type": "yes",
+      "place_rank": 30,
+      "importance": 8.102616922250732e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "88, Beacon Street, Beacon Hill, Boston, Suffolk County, Massachusetts, 02108, United States of America",
+      "boundingbox": [
+        "42.3557804",
+        "42.3560777",
+        "-71.0719101",
+        "-71.0716991"
+      ]
+    },
+    "success": true
   }
 }

@@ -4,3 +4,18 @@ address,city,postcode,country,original_address,normalized_address,lat,lon,geocod
 "Unter den Linden 77, 10117 Berlin",Berlin,10117,Germany,"Unter den Linden 77, 10117 Berlin","unter den linden 77, 10117 berlin",52.5155757,13.3800699,True,0.0
 "Invalid address example, Nowhere",Nowhere,00000,Nowhere,"Invalid address example, Nowhere","invalid address example, nowhere",,,False,0.0
 "10 Downing St, London",London,SW1A 2AA,UK,"10 Downing St, London","10 downing st, london",51.5034878,-0.1276965,True,0.0
+"742 Evergreen Terrace, Springfield",Springfield,62704,USA,"742 Evergreen Terrace, Springfield","742 evergreen terrace, springfield",45.4775116,-122.8424667,True,0.0
+"221B Baker St, London",London,NW1 6XE,UK,"221B Baker St, London","221b baker st, london",51.5233879,-0.1582367,True,0.0
+"350 Fifth Avenue, Manhattan, NY",New York,10118,USA,"350 Fifth Avenue, Manhattan, NY","350 fifth avenue, manhattan, ny",40.8021613,-73.9453686,True,0.0
+"50 King St, Manchester",Manchester,M2 6AA,UK,"50 King St, Manchester","50 king st, manchester",53.4811334,-2.2458344,True,0.0
+"1601 Willow Rd, Menlo Park, CA",Menlo Park,94025,USA,"1601 Willow Rd, Menlo Park, CA","1601 willow rd, menlo park, ca",37.4521403,-122.167768,True,0.0
+"5 Queen St, Auckland",Auckland,1010,New Zealand,"5 Queen St, Auckland","5 queen st, auckland",-36.8762167,174.7423065,True,0.0
+"500 Terry A Francois Blvd, San Francisco, CA",San Francisco,94158,USA,"500 Terry A Francois Blvd, San Francisco, CA","500 terry a francois blvd, san francisco, ca",37.77035,-122.3873489,True,0.0
+"3 Abbey Rd, London",London,NW8 9AY,UK,"3 Abbey Rd, London","3 abbey rd, london",51.531988,-0.178226,True,0.0
+"4 Rue de la Paix, Paris",Paris,75002,France,"4 Rue de la Paix, Paris","4 rue de la paix, paris",48.8685653,2.3307123,True,0.0
+"12 Bahnhofstrasse, Zurich",Zurich,8001,Switzerland,"12 Bahnhofstrasse, Zurich","12 bahnhofstrasse, zurich",47.3682931,8.5400775,True,0.0
+"24 Karl-Marx-Straße, Berlin",Berlin,12043,Germany,"24 Karl-Marx-Straße, Berlin","24 karl-marx-straße, berlin",52.4846232,13.4277523,True,0.0
+"88 High St, Edinburgh",Edinburgh,EH1 1YZ,UK,"88 High St, Edinburgh","88 high st, edinburgh",40.7497898,-81.8346083,True,0.0
+"77 O'Connell St, Dublin",Dublin,D01, Ireland,"77 O'Connell St, Dublin","77 o'connell st, dublin",53.3515479,-6.2611294,True,0.0
+"200 King St W, Toronto",Toronto,M5H 3T4,Canada,"200 King St W, Toronto","200 king st w, toronto",43.647872,-79.3855917,True,0.0
+"250 Queen St, Brisbane",Brisbane,4000,Australia,"250 Queen St, Brisbane","250 queen st, brisbane",-27.4639551,153.0314317,True,0.0
