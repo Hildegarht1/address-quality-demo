@@ -1,0 +1,112 @@
+{
+  "1600 amphitheatre parkway, mountain view, ca": {
+    "lat": 37.4224857,
+    "lon": -122.0855846,
+    "raw": {
+      "place_id": 298441273,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 23733659,
+      "lat": "37.4224857",
+      "lon": "-122.0855846",
+      "class": "building",
+      "type": "commercial",
+      "place_rank": 30,
+      "importance": 6.277943083843774e-05,
+      "addresstype": "building",
+      "name": "Google Building 41",
+      "display_name": "Google Building 41, 1600, Amphitheatre Parkway, Mountain View, Santa Clara County, California, 94043, United States of America",
+      "boundingbox": [
+        "37.4221124",
+        "37.4228508",
+        "-122.0859868",
+        "-122.0851511"
+      ]
+    },
+    "success": true
+  },
+  "1 infinite loop, cupertino, ca": {
+    "lat": 37.3316697,
+    "lon": -122.0300982,
+    "raw": {
+      "place_id": 297688434,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 114054829,
+      "lat": "37.3316697",
+      "lon": "-122.0300982",
+      "class": "office",
+      "type": "company",
+      "place_rank": 30,
+      "importance": 5.9312581063508315e-05,
+      "addresstype": "office",
+      "name": "Infinite Loop 1",
+      "display_name": "Infinite Loop 1, 1, Infinite Loop, Apple Campus, Cupertino, Santa Clara County, California, 95014, United States of America",
+      "boundingbox": [
+        "37.3311957",
+        "37.3321649",
+        "-122.0305543",
+        "-122.0298245"
+      ]
+    },
+    "success": true
+  },
+  "unter den linden 77, 10117 berlin": {
+    "lat": 52.5155757,
+    "lon": 13.3800699,
+    "raw": {
+      "place_id": 133157280,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 4582978,
+      "lat": "52.5155757",
+      "lon": "13.3800699",
+      "class": "tourism",
+      "type": "hotel",
+      "place_rank": 30,
+      "importance": 0.436141967197734,
+      "addresstype": "tourism",
+      "name": "Adlon Kempinski",
+      "display_name": "Adlon Kempinski, 77, Unter den Linden, Dorotheenstadt, Mitte, Berlin, 10117, Deutschland",
+      "boundingbox": [
+        "52.5149514",
+        "52.5162014",
+        "13.3797554",
+        "13.3809127"
+      ]
+    },
+    "success": true
+  },
+  "invalid address example, nowhere": {
+    "lat": null,
+    "lon": null,
+    "raw": null,
+    "success": false
+  },
+  "10 downing st, london": {
+    "lat": 51.5034878,
+    "lon": -0.1276965,
+    "raw": {
+      "place_id": 259857942,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 1879842,
+      "lat": "51.5034878",
+      "lon": "-0.1276965",
+      "class": "tourism",
+      "type": "attraction",
+      "place_rank": 30,
+      "importance": 0.5454648251483627,
+      "addresstype": "tourism",
+      "name": "10 Downing Street",
+      "display_name": "10 Downing Street, 10, Downing Street, Westminster, Millbank, City of Westminster, Greater London, England, SW1A 2AA, United Kingdom",
+      "boundingbox": [
+        "51.5033074",
+        "51.5036913",
+        "-0.1277991",
+        "-0.1273088"
+      ]
+    },
+    "success": true
+  }
+}

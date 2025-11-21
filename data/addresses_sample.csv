@@ -1,0 +1,6 @@
+address,city,postcode,country
+"1600 Amphitheatre Parkway, Mountain View, CA",Mountain View,94043,USA
+"1 Infinite Loop, Cupertino, CA",Cupertino,95014,USA
+"Unter den Linden 77, 10117 Berlin",Berlin,10117,Germany
+"Invalid address example, Nowhere",Nowhere,00000,Nowhere
+"10 Downing St, London",London,SW1A 2AA,UK

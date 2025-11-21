@@ -1,0 +1,6 @@
+address,city,postcode,country,original_address,normalized_address,lat,lon,geocode_success,match_score
+"1600 Amphitheatre Parkway, Mountain View, CA",Mountain View,94043,USA,"1600 Amphitheatre Parkway, Mountain View, CA","1600 amphitheatre parkway, mountain view, ca",37.4224857,-122.0855846,True,0.0
+"1 Infinite Loop, Cupertino, CA",Cupertino,95014,USA,"1 Infinite Loop, Cupertino, CA","1 infinite loop, cupertino, ca",37.3316697,-122.0300982,True,0.0
+"Unter den Linden 77, 10117 Berlin",Berlin,10117,Germany,"Unter den Linden 77, 10117 Berlin","unter den linden 77, 10117 berlin",52.5155757,13.3800699,True,0.0
+"Invalid address example, Nowhere",Nowhere,00000,Nowhere,"Invalid address example, Nowhere","invalid address example, nowhere",,,False,0.0
+"10 Downing St, London",London,SW1A 2AA,UK,"10 Downing St, London","10 downing st, london",51.5034878,-0.1276965,True,0.0
